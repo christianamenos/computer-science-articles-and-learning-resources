@@ -24,7 +24,20 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Saga pattern for microservices](https://microservices.io/patterns/data/saga.html)
 * [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+* [7 javascript methods that will bost your skills](https://www.freecodecamp.org/news/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f/)
+* [The Ironies of Automation](https://blog.acolyer.org/2020/01/08/ironies-of-automation/)
+* [A brief history of Epoll](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
+* [A brief history of Epoll part 2](https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/)
+* [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
+* [Caring about coding](https://8thlight.com/blog/alexandru-codreanu/dario-garcia/lucas-giudice/2015/10/30/caring-coding.html)
+* [No Silver Bullet in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
+* [How a wrong Stack Overflow answer led to a bug in windows .NET applications](https://twitter.com/Foone/status/1229641258370355200)
+
+## Videos
+* [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
 
 
 ## Learning resources
 * [Learn CSS by playing](https://www.maketecheasier.com/games-learn-css/)
+* [Dive into Deep Learning](https://d2l.ai/index.html)
+* [Free Code Camp](https://www.freecodecamp.org/)
