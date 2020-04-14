@@ -16,14 +16,17 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
 * [So Your New Team Has Bad Documentation](https://medium.com/tech-at-nordstrom/so-your-new-team-has-bad-documentation-d4c9040ed579)
 * [How to do high bar code review without being a jerk](https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk/)
-### Front-end
+### CSS
 * [Pixel's vs Relative Units in CSS](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
+### JavaScript
 * [7 javascript methods that will bost your skills](https://www.freecodecamp.org/news/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f/)
 * [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 ### Code reviews
 * [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 ### Programming languages/frameworks 101's
 * [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
+### Python
+* [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
 ### Machine learning
 * [Rules of Machine Learning:  Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
 ### Databases
