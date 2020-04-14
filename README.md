@@ -14,8 +14,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Designing Even Larger Applications](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d)
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
-* [So Your New Team Has Bad Documentation](https://medium.com/tech-at-nordstrom/so-your-new-team-has-bad-documentation-
-d4c9040ed579)
+* [So Your New Team Has Bad Documentation](https://medium.com/tech-at-nordstrom/so-your-new-team-has-bad-documentation-d4c9040ed579)
 * [How to do high bar code review without being a jerk](https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk/)
 ### Front-end
 * [Pixel's vs Relative Units in CSS](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
