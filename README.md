@@ -12,6 +12,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
 * [Saga pattern for microservices](https://microservices.io/patterns/data/saga.html)
 * [Designing Even Larger Applications](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d)
+* [Hacker-laws: Laws, Theories, Principles and Patterns that developers will find useful](https://github.com/dwmkerr/hacker-laws/blob/master/README.md)
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
 * [So Your New Team Has Bad Documentation](https://medium.com/tech-at-nordstrom/so-your-new-team-has-bad-documentation-d4c9040ed579)
@@ -29,9 +30,11 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
 ### Machine learning
 * [Rules of Machine Learning:  Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
+* [Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
 ### Databases
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
-
+### Cloud
+* [AWS Infrastructure for Software Developers](https://blog.deleu.dev/aws-vpc-for-software-engineers/)
 ### Others
 * [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [Understanding shell globs](https://soptik.tech/articles/beware-of-shell-globs.html)
@@ -54,9 +57,20 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [How big technical challenges happen at Slack](https://slack.engineering/how-big-technical-changes-happen-at-slack-f1569d25ee7b
 )
 * [Build your own server from scratch - Part 1](https://ruslanspivak.com/lsbaws-part1/)
+* [Our Software Dependency Problem](https://research.swtch.com/deps)
+* [The key points of Working Effectively with Legacy Code](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
+* [Object calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
+* [The Elephant in the Architecture](https://martinfowler.com/articles/value-architectural-attribute.html)
+* [Customer Performance test of the new Redshift RA3 EC2 instance type](https://www.intermix.io/blog/amazon-redshift-ra3-node-benchmark/#introduction)
+* [Upgrading Bash for Mac OS](https://itnext.io/upgrading-bash-on-macos-7138bd1066ba)
+* [Programmable Code Completion](https://itnext.io/programmable-completion-for-bash-on-macos-f81a0103080b)
+* [Project LightSpeed - Rewriting the Facebook Messenger](https://engineering.fb.com/data-infrastructure/messenger/)
+* [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
+* [Fault Tolerance at Speed](https://www.infoq.com/presentations/aeron-cluster-raft/)
+* [TDD: Where Did It All Go Wrong?](https://www.infoq.com/presentations/tdd-original/)
 
 
 ## Learning resources
