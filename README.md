@@ -13,6 +13,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Saga pattern for microservices](https://microservices.io/patterns/data/saga.html)
 * [Designing Even Larger Applications](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d)
 * [Hacker-laws: Laws, Theories, Principles and Patterns that developers will find useful](https://github.com/dwmkerr/hacker-laws/blob/master/README.md)
+* [Antifragile Design - Science Direct](https://www.sciencedirect.com/science/article/pii/S1877050919305861)
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
 * [So Your New Team Has Bad Documentation](https://medium.com/tech-at-nordstrom/so-your-new-team-has-bad-documentation-d4c9040ed579)
@@ -22,8 +23,9 @@ To make it easier to classify, specify a title, a link to the resource and the t
 ### JavaScript
 * [7 javascript methods that will bost your skills](https://www.freecodecamp.org/news/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f/)
 * [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
-### Code reviews
+### Code reviews/Versioning
 * [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
+* [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 ### Programming languages/frameworks 101's
 * [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
 ### Python
@@ -35,6 +37,9 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
 ### Cloud
 * [AWS Infrastructure for Software Developers](https://blog.deleu.dev/aws-vpc-for-software-engineers/)
+* [AWS Cloud Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page)
+* [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+
 ### Others
 * [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [Understanding shell globs](https://soptik.tech/articles/beware-of-shell-globs.html)
@@ -66,6 +71,12 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Programmable Code Completion](https://itnext.io/programmable-completion-for-bash-on-macos-f81a0103080b)
 * [Project LightSpeed - Rewriting the Facebook Messenger](https://engineering.fb.com/data-infrastructure/messenger/)
 * [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
+* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+* [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmabostian/101-tips-for-being-a-great-programmer-human-36nl)
+* [Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/)
+* [LMAX – low latency, high throughput trading platform](https://www.infoq.com/presentations/LMAX/)
+* [A Systematic Approach to the design of a Lustre storage system in detail](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/architecting-lustre-storage-white-paper.pdf)
+* [How complex systems fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
