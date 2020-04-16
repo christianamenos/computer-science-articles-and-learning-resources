@@ -35,6 +35,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
 * [Your first Machine Learning project in Python Step by Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 * [How much can a Front-end Developer learn about Machine Learning using only JavaScript?](https://leewarrick.com/blog/learning-machine-learning/)
+* [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
 ### Databases
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
 ### Cloud
