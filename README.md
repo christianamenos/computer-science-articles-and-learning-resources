@@ -14,6 +14,8 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Designing Even Larger Applications](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d)
 * [Hacker-laws: Laws, Theories, Principles and Patterns that developers will find useful](https://github.com/dwmkerr/hacker-laws/blob/master/README.md)
 * [Antifragile Design - Science Direct](https://www.sciencedirect.com/science/article/pii/S1877050919305861)
+* [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf/)
+* [Code Reusability and Functional Programming](https://www.joelonsoftware.com/2006/08/01/can-your-programming-language-do-this/)
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
 * [So Your New Team Has Bad Documentation](https://medium.com/tech-at-nordstrom/so-your-new-team-has-bad-documentation-d4c9040ed579)
@@ -42,7 +44,9 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [AWS Infrastructure for Software Developers](https://blog.deleu.dev/aws-vpc-for-software-engineers/)
 * [AWS Cloud Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page)
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
-
+* [Serverless in the wild: characterizing and optimising the serverless workload at a large cloud provider](https://blog.acolyer.org/2020/03/20/serverless-in-the-wild/)
+### Testing
+* [TestDouble](https://martinfowler.com/bliki/TestDouble.html)
 ### Others
 * [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [Understanding shell globs](https://soptik.tech/articles/beware-of-shell-globs.html)
@@ -80,11 +84,17 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [LMAX – low latency, high throughput trading platform](https://www.infoq.com/presentations/LMAX/)
 * [A Systematic Approach to the design of a Lustre storage system in detail](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/architecting-lustre-storage-white-paper.pdf)
 * [How complex systems fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+* [Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+* [JavaScript: The First 20 Years](https://zenodo.org/record/3710954#.XnOlfmRKjOR)
+* [A Whirlwind Introduction to Dataflow Graphs](https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/)
+* [Multitenancy](https://eng.uber.com/multitenancy-microservice-architecture/)
+
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
 * [Fault Tolerance at Speed](https://www.infoq.com/presentations/aeron-cluster-raft/)
 * [TDD: Where Did It All Go Wrong?](https://www.infoq.com/presentations/tdd-original/)
+* [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8)
 
 
 ## Learning resources
