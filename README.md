@@ -138,6 +138,9 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [TDD: Where Did It All Go Wrong?](https://www.infoq.com/presentations/tdd-original/)
 * [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8)
 
+## Podcasts
+* [Official AWS Podcast](https://aws.amazon.com/es/podcasts/aws-podcast)
+
 
 ## Learning resources
 * [Learn CSS by playing](https://www.maketecheasier.com/games-learn-css/)
