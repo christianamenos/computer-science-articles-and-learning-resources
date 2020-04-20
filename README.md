@@ -29,23 +29,6 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 * [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 
-### Programming languages/frameworks 101's
-* [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
-
-### CSS
-* [Pixel's vs Relative Units in CSS](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
-
-### JavaScript
-* [7 javascript methods that will bost your skills](https://www.freecodecamp.org/news/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f/)
-* [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
-
-### Python
-* [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
-
-### Java
-* [Java Performance Tuning](http://www.javaperformancetuning.com/tips/rawtips.shtml)
-* [JVM Anatomy](https://shipilev.net/jvm/anatomy-quarks/)
-
 ### Machine learning
 * [Rules of Machine Learning:  Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
 * [Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
@@ -69,6 +52,23 @@ To make it easier to classify, specify a title, a link to the resource and the t
 
 ### Testing
 * [TestDouble](https://martinfowler.com/bliki/TestDouble.html)
+
+### Programming languages/frameworks 101's
+* [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
+
+### CSS
+* [Pixel's vs Relative Units in CSS](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
+
+### JavaScript
+* [7 javascript methods that will bost your skills](https://www.freecodecamp.org/news/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f/)
+* [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
+
+### Python
+* [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
+
+### Java
+* [Java Performance Tuning](http://www.javaperformancetuning.com/tips/rawtips.shtml)
+* [JVM Anatomy](https://shipilev.net/jvm/anatomy-quarks/)
 
 ### Android
 * [How To Automate The Android Code Review Process Using Danger](https://www.wearemobilefirst.com/blog/how-to-automate-the-android-code-review-process-using-danger)
