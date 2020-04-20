@@ -7,6 +7,7 @@ Please send me a direct message at twitter ([@christianamenos](https://twitter.c
 To make it easier to classify, specify a title, a link to the resource and the topic/s that covers e.g.: Good practices, CSS, Python, Node, Front-end, Machine learning, ...
 
 ## Articles
+
 ### Good practices/patterns
 * [Caring about coding](https://8thlight.com/blog/alexandru-codreanu/dario-garcia/lucas-giudice/2015/10/30/caring-coding.html)
 * [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
@@ -18,22 +19,33 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Code Reusability and Functional Programming](https://www.joelonsoftware.com/2006/08/01/can-your-programming-language-do-this/)
 * [Atomic Design: Getting Started](https://www.wearemobilefirst.com/blog/atomic-design)
 * [Healthy Coding Practices](https://www.wearemobilefirst.com/blog/healthy-coding-practices)
+
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
 * [So Your New Team Has Bad Documentation](https://medium.com/tech-at-nordstrom/so-your-new-team-has-bad-documentation-d4c9040ed579)
 * [How to do high bar code review without being a jerk](https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk/)
-### CSS
-* [Pixel's vs Relative Units in CSS](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
-### JavaScript
-* [7 javascript methods that will bost your skills](https://www.freecodecamp.org/news/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f/)
-* [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
+
 ### Code reviews/Versioning
 * [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 * [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
+
 ### Programming languages/frameworks 101's
 * [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
+
+### CSS
+* [Pixel's vs Relative Units in CSS](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
+
+### JavaScript
+* [7 javascript methods that will bost your skills](https://www.freecodecamp.org/news/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f/)
+* [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
+
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
+
+### Java
+* [Java Performance Tuning](http://www.javaperformancetuning.com/tips/rawtips.shtml)
+* [JVM Anatomy](https://shipilev.net/jvm/anatomy-quarks/)
+
 ### Machine learning
 * [Rules of Machine Learning:  Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
 * [Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
@@ -41,15 +53,61 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [How much can a Front-end Developer learn about Machine Learning using only JavaScript?](https://leewarrick.com/blog/learning-machine-learning/)
 * [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
 * [FastAI Courses](https://www.fast.ai/)
+
 ### Databases
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
+* [Building DynamoDB brick by brick](https://medium.com/swlh/building-dynamodb-brick-by-brick-237e0008b698)
+
 ### Cloud
 * [AWS Infrastructure for Software Developers](https://blog.deleu.dev/aws-vpc-for-software-engineers/)
 * [AWS Cloud Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page)
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 * [Serverless in the wild: characterizing and optimising the serverless workload at a large cloud provider](https://blog.acolyer.org/2020/03/20/serverless-in-the-wild/)
+
+### OPS
+* [Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
+
 ### Testing
 * [TestDouble](https://martinfowler.com/bliki/TestDouble.html)
+
+### Android
+* [How To Automate The Android Code Review Process Using Danger](https://www.wearemobilefirst.com/blog/how-to-automate-the-android-code-review-process-using-danger)
+* [Android Studio: Android Developer Tips & Tricks](https://www.wearemobilefirst.com/blog/android-studio-tips)
+* [Animated Headers for Android with MotionLayout - 3](https://www.wearemobilefirst.com/blog/android-animations-motionlayout)
+* [CameraX: Jetpack Support Library](https://www.wearemobilefirst.com/blog/camerax-2)
+* [How To Create Animations For Android Using MotionLayout](https://www.wearemobilefirst.com/blog/how-to-create-animations-for-android-using-motionlayout)
+* [How To Create Easy Animations For Your Android App](https://www.wearemobilefirst.com/blog/how-to-create-easy-animations-for-your-android-app)
+* [How To Develop Android Apps For Foldable Devices](https://www.wearemobilefirst.com/blog/how-to-develop-android-apps-for-foldable-devices)
+* [How To Efficiently Manage Your Android App's Memory](https://www.wearemobilefirst.com/blog/how-to-efficiently-manage-android-memory)
+* [Designing for Android: A Developer's Recommendations](https://www.wearemobilefirst.com/blog/designing-for-android-a-developers-recommendations)
+* [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-2-model-view-presenter-8a6faaae14a5)
+* [Android Architecture Patterns Part 2: Model-View-Presenter](https://medium.com/upday-devs/android-architecture-patterns-part-2-model-view-presenter-8a6faaae14a5)
+* [Android Architecture Patterns Part 3: Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
+* [Antonio Leiva - Articles & interviews about Android development](https://antonioleiva.com/category/blog/)
+* [Antonio Leiva - Dev Experto articles about Android news and development](https://devexperto.com/blog/)
+* [Raywenderlich Android articles](https://www.raywenderlich.com/android/articles)
+* [Android Weekly](https://androidweekly.net/)
+
+### iOS
+* [iOS Open Source UI Library For Mobile Navigation](https://www.wearemobilefirst.com/blog/ios-open-source-ui-navigation-library)
+* [How To Use IDEs Effectively](https://www.wearemobilefirst.com/blog/how-to-use-ides-effectively)
+* [The Simple Xcode Hack That Could Optimize Developer Productivity](https://www.wearemobilefirst.com/blog/the-simple-xcode-hack-that-could-optimize-developer-productivity)
+* [IDE Keyboard Shortcuts To Improve Productivity](https://www.wearemobilefirst.com/blog/ide-keyboard-shortcuts)
+* [ARKit: Introduction to Augmented Reality](https://www.wearemobilefirst.com/blog/arkit-augmented-reality)
+* [Apple Books: Recreating the UI Animations](https://www.wearemobilefirst.com/blog/apple-books-ui-animations-2)
+* [SwiftUI: Configuring Layouts & Declarative Programming](https://www.wearemobilefirst.com/blog/swiftui-declarative-programming)
+* [Swift: Type Safety, Encoding & Decoding](https://www.wearemobilefirst.com/blog/swift-type-safety-2)
+* [Apple's Combine: Introduction to the Reactive Framework](https://www.wearemobilefirst.com/blog/apple-combine-2)
+* [Carthage: How to use Carthage to configure iOS and tvOS](https://www.wearemobilefirst.com/blog/carthage-2)
+* [How to Create a Container Framework](https://www.wearemobilefirst.com/blog/container-framework)
+* [How To Build An Image Classifier App With Apple's Core ML](https://www.wearemobilefirst.com/blog/how-to-build-an-image-classifier-app-with-apples-core-ml)
+* [How To Handle And Donate Siri Shortcuts](https://www.wearemobilefirst.com/blog/how-to-handle-and-donate-siri-shortcuts)
+* [Raywenderlich iOS articles](https://www.raywenderlich.com/ios/articles)
+
+### Flutter
+* [Flutter Weekly](https://flutterweekly.news/)
+* [Flutter Tutorial: Provider Overview for Humans](https://blog.codemagic.io/flutter-tutorial-provider/)
+
 ### Others
 * [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [Understanding shell globs](https://soptik.tech/articles/beware-of-shell-globs.html)
@@ -96,47 +154,17 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Time Management Tips for Developers](https://www.wearemobilefirst.com/blog/developer-time-management-tips)
 * [A Guide To Networking For Developers](https://www.wearemobilefirst.com/blog/developer-networking)
 * [Remote Work: How To Work Remotely Effectively](https://www.wearemobilefirst.com/blog/how-to-work-remotely)
-### Android
-* [How To Automate The Android Code Review Process Using Danger](https://www.wearemobilefirst.com/blog/how-to-automate-the-android-code-review-process-using-danger)
-* [Android Studio: Android Developer Tips & Tricks](https://www.wearemobilefirst.com/blog/android-studio-tips)
-* [Animated Headers for Android with MotionLayout - 3](https://www.wearemobilefirst.com/blog/android-animations-motionlayout)
-* [CameraX: Jetpack Support Library](https://www.wearemobilefirst.com/blog/camerax-2)
-* [How To Create Animations For Android Using MotionLayout](https://www.wearemobilefirst.com/blog/how-to-create-animations-for-android-using-motionlayout)
-* [How To Create Easy Animations For Your Android App](https://www.wearemobilefirst.com/blog/how-to-create-easy-animations-for-your-android-app)
-* [How To Develop Android Apps For Foldable Devices](https://www.wearemobilefirst.com/blog/how-to-develop-android-apps-for-foldable-devices)
-* [How To Efficiently Manage Your Android App's Memory](https://www.wearemobilefirst.com/blog/how-to-efficiently-manage-android-memory)
-* [Designing for Android: A Developer's Recommendations](https://www.wearemobilefirst.com/blog/designing-for-android-a-developers-recommendations)
-* [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-2-model-view-presenter-8a6faaae14a5)
-* [Android Architecture Patterns Part 2: Model-View-Presenter](https://medium.com/upday-devs/android-architecture-patterns-part-2-model-view-presenter-8a6faaae14a5)
-* [Android Architecture Patterns Part 3: Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
-* [Antonio Leiva - Articles & interviews about Android development](https://antonioleiva.com/category/blog/)
-* [Antonio Leiva - Dev Experto articles about Android news and development](https://devexperto.com/blog/)
-* [Raywenderlich Android articles](https://www.raywenderlich.com/android/articles)
-* [Android Weekly](https://androidweekly.net/)
-### iOS
-* [iOS Open Source UI Library For Mobile Navigation](https://www.wearemobilefirst.com/blog/ios-open-source-ui-navigation-library)
-* [How To Use IDEs Effectively](https://www.wearemobilefirst.com/blog/how-to-use-ides-effectively)
-* [The Simple Xcode Hack That Could Optimize Developer Productivity](https://www.wearemobilefirst.com/blog/the-simple-xcode-hack-that-could-optimize-developer-productivity)
-* [IDE Keyboard Shortcuts To Improve Productivity](https://www.wearemobilefirst.com/blog/ide-keyboard-shortcuts)
-* [ARKit: Introduction to Augmented Reality](https://www.wearemobilefirst.com/blog/arkit-augmented-reality)
-* [Apple Books: Recreating the UI Animations](https://www.wearemobilefirst.com/blog/apple-books-ui-animations-2)
-* [SwiftUI: Configuring Layouts & Declarative Programming](https://www.wearemobilefirst.com/blog/swiftui-declarative-programming)
-* [Swift: Type Safety, Encoding & Decoding](https://www.wearemobilefirst.com/blog/swift-type-safety-2)
-* [Apple's Combine: Introduction to the Reactive Framework](https://www.wearemobilefirst.com/blog/apple-combine-2)
-* [Carthage: How to use Carthage to configure iOS and tvOS](https://www.wearemobilefirst.com/blog/carthage-2)
-* [How to Create a Container Framework](https://www.wearemobilefirst.com/blog/container-framework)
-* [How To Build An Image Classifier App With Apple's Core ML](https://www.wearemobilefirst.com/blog/how-to-build-an-image-classifier-app-with-apples-core-ml)
-* [How To Handle And Donate Siri Shortcuts](https://www.wearemobilefirst.com/blog/how-to-handle-and-donate-siri-shortcuts)
-* [Raywenderlich iOS articles](https://www.raywenderlich.com/ios/articles)
-### Flutter
-* [Flutter Weekly](https://flutterweekly.news/)
-* [Flutter Tutorial: Provider Overview for Humans](https://blog.codemagic.io/flutter-tutorial-provider/)
+* [Scaling Stateful Objects](http://ithare.com/scaling-stateful-objects/)
+* [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* [OWASP cheatsheets](https://cheatsheetseries.owasp.org/)
+
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
 * [Fault Tolerance at Speed](https://www.infoq.com/presentations/aeron-cluster-raft/)
 * [TDD: Where Did It All Go Wrong?](https://www.infoq.com/presentations/tdd-original/)
 * [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8)
+
 
 ## Podcasts
 * [Official AWS Podcast](https://aws.amazon.com/es/podcasts/aws-podcast)
