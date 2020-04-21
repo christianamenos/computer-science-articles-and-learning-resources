@@ -1,4 +1,4 @@
-# Software engineering articles and learning resources
+# Computer science articles and learning resources
 Let's collect some promising or interesting articles related with software engineering. This will allow anyone to expand their knowledge and discover new blogs or people to follow.
 
 ## Contributing
@@ -19,6 +19,8 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Code Reusability and Functional Programming](https://www.joelonsoftware.com/2006/08/01/can-your-programming-language-do-this/)
 * [Atomic Design: Getting Started](https://www.wearemobilefirst.com/blog/atomic-design)
 * [Healthy Coding Practices](https://www.wearemobilefirst.com/blog/healthy-coding-practices)
+* [The Boy Scout Rule in Coding](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
+* [Solve It Once](https://mastery.games/post/solve-it-once/)
 
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
@@ -36,10 +38,12 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [How much can a Front-end Developer learn about Machine Learning using only JavaScript?](https://leewarrick.com/blog/learning-machine-learning/)
 * [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
 * [FastAI Courses](https://www.fast.ai/)
+* [Privacy attacks on Machine Learning](https://towardsdatascience.com/privacy-attacks-on-machine-learning-a1a25e474276)
 
 ### Databases
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
 * [Building DynamoDB brick by brick](https://medium.com/swlh/building-dynamodb-brick-by-brick-237e0008b698)
+* [SQL is No Excuse to Avoid DevOps](https://queue.acm.org/detail.cfm?id=3300018)
 
 ### Cloud
 * [AWS Infrastructure for Software Developers](https://blog.deleu.dev/aws-vpc-for-software-engineers/)
@@ -69,6 +73,9 @@ To make it easier to classify, specify a title, a link to the resource and the t
 ### Java
 * [Java Performance Tuning](http://www.javaperformancetuning.com/tips/rawtips.shtml)
 * [JVM Anatomy](https://shipilev.net/jvm/anatomy-quarks/)
+
+### Go
+* [How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong team](https://www.theregister.co.uk/2020/03/09/monzo_microservices/)
 
 ### Android
 * [How To Automate The Android Code Review Process Using Danger](https://www.wearemobilefirst.com/blog/how-to-automate-the-android-code-review-process-using-danger)
@@ -103,10 +110,14 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [How To Build An Image Classifier App With Apple's Core ML](https://www.wearemobilefirst.com/blog/how-to-build-an-image-classifier-app-with-apples-core-ml)
 * [How To Handle And Donate Siri Shortcuts](https://www.wearemobilefirst.com/blog/how-to-handle-and-donate-siri-shortcuts)
 * [Raywenderlich iOS articles](https://www.raywenderlich.com/ios/articles)
+* [Comparing the Performance between Native iOS (Swift) and React-Native](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2)
 
 ### Flutter
 * [Flutter Weekly](https://flutterweekly.news/)
 * [Flutter Tutorial: Provider Overview for Humans](https://blog.codemagic.io/flutter-tutorial-provider/)
+
+### Security
+* [I’m harvesting credit card numbers and passwords from your site. Here’s how](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
 
 ### Others
 * [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
@@ -157,6 +168,9 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Scaling Stateful Objects](http://ithare.com/scaling-stateful-objects/)
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [OWASP cheatsheets](https://cheatsheetseries.owasp.org/)
+* [Invent and Simplify with Steve Wozniak](http://www.foundersatwork.com/steve-wozniak.html)
+* [New grad vs senior dev](https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/)
+* [A comprehensive study of Convergent and Commutative Replicated Data Types](https://hal.inria.fr/inria-00555588/document)
 
 
 ## Videos
