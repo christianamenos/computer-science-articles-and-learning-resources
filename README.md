@@ -204,3 +204,4 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Learn CSS by playing](https://www.maketecheasier.com/games-learn-css/)
 * [Dive into Deep Learning](https://d2l.ai/index.html)
 * [Free Code Camp](https://www.freecodecamp.org/)
+* [AWS Twitch account](https://www.twitch.tv/aws)
