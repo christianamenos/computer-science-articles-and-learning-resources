@@ -39,20 +39,26 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
 * [FastAI Courses](https://www.fast.ai/)
 * [Privacy attacks on Machine Learning](https://towardsdatascience.com/privacy-attacks-on-machine-learning-a1a25e474276)
+* [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 
 ### Databases
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
 * [Building DynamoDB brick by brick](https://medium.com/swlh/building-dynamodb-brick-by-brick-237e0008b698)
 * [SQL is No Excuse to Avoid DevOps](https://queue.acm.org/detail.cfm?id=3300018)
+* [Online Data Migration](https://stripe.com/en-in/blog/online-migrations)
 
 ### Cloud
 * [AWS Infrastructure for Software Developers](https://blog.deleu.dev/aws-vpc-for-software-engineers/)
 * [AWS Cloud Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page)
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 * [Serverless in the wild: characterizing and optimising the serverless workload at a large cloud provider](https://blog.acolyer.org/2020/03/20/serverless-in-the-wild/)
+* [Cloud for Beginners](https://medium.com/@helios_1101/straight-up-through-the-cloud-2061177f213f)
 
 ### OPS
 * [Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
+* [Deploys at Slack](https://slack.engineering/deploys-at-slack-cd0d28c61701)
+* [Containers vs. Zones vs. Jails vs. VMs](https://blog.jessfraz.com/post/containers-zones-jails-vms/)
+* [Rapid release at massive scale](https://engineering.fb.com/web/rapid-release-at-massive-scale/)
 
 ### Testing
 * [TestDouble](https://martinfowler.com/bliki/TestDouble.html)
@@ -76,6 +82,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 
 ### Go
 * [How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong team](https://www.theregister.co.uk/2020/03/09/monzo_microservices/)
+* [The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go)
 
 ### Android
 * [How To Automate The Android Code Review Process Using Danger](https://www.wearemobilefirst.com/blog/how-to-automate-the-android-code-review-process-using-danger)
@@ -171,6 +178,14 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Invent and Simplify with Steve Wozniak](http://www.foundersatwork.com/steve-wozniak.html)
 * [New grad vs senior dev](https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/)
 * [A comprehensive study of Convergent and Commutative Replicated Data Types](https://hal.inria.fr/inria-00555588/document)
+* [Outcome over output](https://martinfowler.com/bliki/OutcomeOverOutput.html)
+* [Asking Questiona](https://www.aaronkharris.com/asking-questions)
+* [Latency. Why it matters, how to define it and how to measure it](https://igor.io/latency/)
+* [How to Avoid Virtual Miscommunication](https://hbr.org/2013/04/how-to-avoid-virtual-miscommun)
+* [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+* [A testing story on Bose QC35 headphones](https://community.bose.com/t5/Around-On-Ear-Headphones/Bose-QC-35-Firmware-4-5-2-Noise-Cancellation-Investigation/td-p/285738#anoverview)
+* [Lessons for Software Organizations from the Boeing 737 Max Saga](https://embeddedartistry.com/wp-content/uploads/2019/09/the-boeing-737-max-saga-lessons-for-software-organizations.pdf)
+* [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 
 
 ## Videos
@@ -178,6 +193,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Fault Tolerance at Speed](https://www.infoq.com/presentations/aeron-cluster-raft/)
 * [TDD: Where Did It All Go Wrong?](https://www.infoq.com/presentations/tdd-original/)
 * [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8)
+* [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
 
 
 ## Podcasts
