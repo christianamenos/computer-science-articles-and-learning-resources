@@ -53,6 +53,8 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 * [Serverless in the wild: characterizing and optimising the serverless workload at a large cloud provider](https://blog.acolyer.org/2020/03/20/serverless-in-the-wild/)
 * [Cloud for Beginners](https://medium.com/@helios_1101/straight-up-through-the-cloud-2061177f213f)
+* [AWS Lambda Power Tuning](https://serverless.com/blog/aws-lambda-power-tuning)
+* [Moving Messages in AWS: Comparing Kinesis, SQS, and SNS](https://medium.com/better-programming/moving-messages-in-aws-comparing-kinesis-sqs-and-sns-32cb5d2f89d5)
 
 ### OPS
 * [Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
@@ -79,10 +81,15 @@ To make it easier to classify, specify a title, a link to the resource and the t
 ### Java
 * [Java Performance Tuning](http://www.javaperformancetuning.com/tips/rawtips.shtml)
 * [JVM Anatomy](https://shipilev.net/jvm/anatomy-quarks/)
+* [Method binding in Java](http://jdojo.com/wp-content/uploads/2012/02/Understanding-Method-Binding-in-Java.pdf)
 
 ### Go
 * [How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong team](https://www.theregister.co.uk/2020/03/09/monzo_microservices/)
 * [The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go)
+
+
+### Rust
+* [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
 
 ### Android
 * [How To Automate The Android Code Review Process Using Danger](https://www.wearemobilefirst.com/blog/how-to-automate-the-android-code-review-process-using-danger)
@@ -186,6 +193,15 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [A testing story on Bose QC35 headphones](https://community.bose.com/t5/Around-On-Ear-Headphones/Bose-QC-35-Firmware-4-5-2-Noise-Cancellation-Investigation/td-p/285738#anoverview)
 * [Lessons for Software Organizations from the Boeing 737 Max Saga](https://embeddedartistry.com/wp-content/uploads/2019/09/the-boeing-737-max-saga-lessons-for-software-organizations.pdf)
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
+* [MUST, SHOULD, DON'T CARE: TCP Conformance in the Wild](https://arxiv.org/abs/2002.05400v1)
+* [Computers Can Be Understood](https://blog.nelhage.com/post/computers-can-be-understood/)
+* [Microservice Architecture](https://martinfowler.com/articles/microservices.html)
+* [End-to-end arguments in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+* [The Difference Between UX And UI Design](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/
+)
+* [Productive and Healthy during the COVID-19 Outbreak](https://hackernoon.com/how-developers-can-stay-productive-and-healthy-during-the-covid-19-outbreak-as2532bc)
+* [What’s the right size for a Microservice?](https://medium.com/@kylegenebrown/whats-the-right-size-for-a-microservice-bf1740370d47)
+* [Rugged Software](https://ruggedsoftware.org/)
 
 
 ## Videos
@@ -194,10 +210,15 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [TDD: Where Did It All Go Wrong?](https://www.infoq.com/presentations/tdd-original/)
 * [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8)
 * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
+* [#noestimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
 
 
 ## Podcasts
 * [Official AWS Podcast](https://aws.amazon.com/es/podcasts/aws-podcast)
+
+## Books
+* [Google Site Reliability Engineering](https://landing.google.com/sre/books/)
+* [Packtpub daily free book](https://www.packtpub.com/free-learning)
 
 
 ## Learning resources
