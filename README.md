@@ -21,6 +21,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Healthy Coding Practices](https://www.wearemobilefirst.com/blog/healthy-coding-practices)
 * [The Boy Scout Rule in Coding](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
 * [Solve It Once](https://mastery.games/post/solve-it-once/)
+* [Resiliency Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/resiliency)
 
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
@@ -30,6 +31,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 ### Code reviews/Versioning
 * [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 * [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
+* [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html#healthy-branch)
 
 ### Machine learning
 * [Rules of Machine Learning:  Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
@@ -46,6 +48,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Building DynamoDB brick by brick](https://medium.com/swlh/building-dynamodb-brick-by-brick-237e0008b698)
 * [SQL is No Excuse to Avoid DevOps](https://queue.acm.org/detail.cfm?id=3300018)
 * [Online Data Migration](https://stripe.com/en-in/blog/online-migrations)
+* [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 
 ### Cloud
 * [AWS Infrastructure for Software Developers](https://blog.deleu.dev/aws-vpc-for-software-engineers/)
@@ -55,6 +58,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Cloud for Beginners](https://medium.com/@helios_1101/straight-up-through-the-cloud-2061177f213f)
 * [AWS Lambda Power Tuning](https://serverless.com/blog/aws-lambda-power-tuning)
 * [Moving Messages in AWS: Comparing Kinesis, SQS, and SNS](https://medium.com/better-programming/moving-messages-in-aws-comparing-kinesis-sqs-and-sns-32cb5d2f89d5)
+* [How Far Out is AWS Fargate?](https://read.iopipe.com/how-far-out-is-aws-fargate-a2409d2f9bc7)
 
 ### OPS
 * [Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
@@ -82,6 +86,8 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Java Performance Tuning](http://www.javaperformancetuning.com/tips/rawtips.shtml)
 * [JVM Anatomy](https://shipilev.net/jvm/anatomy-quarks/)
 * [Method binding in Java](http://jdojo.com/wp-content/uploads/2012/02/Understanding-Method-Binding-in-Java.pdf)
+* [Effective Java Concise 1](https://github.com/HugoMatilla/Effective-JAVA-Summary)
+* [Effective Java Concise 2](https://github.com/david-sauvage/effective-java-summary)
 
 ### Go
 * [How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong team](https://www.theregister.co.uk/2020/03/09/monzo_microservices/)
@@ -202,6 +208,8 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Productive and Healthy during the COVID-19 Outbreak](https://hackernoon.com/how-developers-can-stay-productive-and-healthy-during-the-covid-19-outbreak-as2532bc)
 * [What’s the right size for a Microservice?](https://medium.com/@kylegenebrown/whats-the-right-size-for-a-microservice-bf1740370d47)
 * [Rugged Software](https://ruggedsoftware.org/)
+* [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+* [Implementing a hexagonal architecture](https://medium.com/swlh/implementing-a-hexagonal-architecture-bcfbe0d63622)
 
 
 ## Videos
@@ -211,6 +219,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8)
 * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
 * [#noestimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
+* [The Forgotten Ideas in Computer Science - Youtube](https://www.youtube.com/watch?v=-I_jE0l7sYQ)
 
 
 ## Podcasts
