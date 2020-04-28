@@ -32,6 +32,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 * [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html#healthy-branch)
+* [Git from the Bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
 
 ### Machine learning
 * [Rules of Machine Learning:  Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
@@ -42,6 +43,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [FastAI Courses](https://www.fast.ai/)
 * [Privacy attacks on Machine Learning](https://towardsdatascience.com/privacy-attacks-on-machine-learning-a1a25e474276)
 * [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
+* [The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
 
 ### Databases
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
@@ -210,6 +212,8 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Rugged Software](https://ruggedsoftware.org/)
 * [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [Implementing a hexagonal architecture](https://medium.com/swlh/implementing-a-hexagonal-architecture-bcfbe0d63622)
+* [Is It More Important To Know How Or To Know Why?](https://vanseodesign.com/web-design/how-why/)
+* [OOP - The trillion dollar disaster](https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7)
 
 
 ## Videos
@@ -220,6 +224,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
 * [#noestimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
 * [The Forgotten Ideas in Computer Science - Youtube](https://www.youtube.com/watch?v=-I_jE0l7sYQ)
+* [A.I. Learns to play Flappy Bird](https://www.youtube.com/watch?v=WSW-5m8lRMs)
 
 
 ## Podcasts
