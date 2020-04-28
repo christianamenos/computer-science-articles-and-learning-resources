@@ -80,6 +80,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 ### JavaScript
 * [7 javascript methods that will bost your skills](https://www.freecodecamp.org/news/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f/)
 * [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
+* [Learn to combine RxJS sequences](https://indepth.dev/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams/)
 
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
