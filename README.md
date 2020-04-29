@@ -33,6 +33,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html#healthy-branch)
 * [Git from the Bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
+* [Code Review best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
 
 ### Machine learning
 * [Rules of Machine Learning:  Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
@@ -51,6 +52,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [SQL is No Excuse to Avoid DevOps](https://queue.acm.org/detail.cfm?id=3300018)
 * [Online Data Migration](https://stripe.com/en-in/blog/online-migrations)
 * [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+* [Should you be using NoSQL in your next project?](https://www.integrant.com/when-to-use-sql-vs-nosql/)
 
 ### Cloud
 * [AWS Infrastructure for Software Developers](https://blog.deleu.dev/aws-vpc-for-software-engineers/)
@@ -81,6 +83,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [7 javascript methods that will bost your skills](https://www.freecodecamp.org/news/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f/)
 * [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 * [Learn to combine RxJS sequences](https://indepth.dev/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams/)
+* [Eloquent Javascript](https://eloquentjavascript.net/)
 
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
@@ -215,6 +218,11 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Implementing a hexagonal architecture](https://medium.com/swlh/implementing-a-hexagonal-architecture-bcfbe0d63622)
 * [Is It More Important To Know How Or To Know Why?](https://vanseodesign.com/web-design/how-why/)
 * [OOP - The trillion dollar disaster](https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7)
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [It's so hard to write 100% correct code](https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html)
+* [Decoding the Chrome Developer Tool](https://medium.com/swlh/decoding-the-chrome-developer-tool-e7963a194b9e)
+* [When debugging, your attitude matters](https://jvns.ca/blog/debugging-attitude-matters/?utm_source=cassidoo&utm_medium=email)
+* [When and Why Your Code Starts to Smell Bad](https://dibt.unimol.it/staff/fpalomba/documents/C4.pdf)
 
 
 ## Videos
@@ -226,6 +234,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [#noestimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
 * [The Forgotten Ideas in Computer Science - Youtube](https://www.youtube.com/watch?v=-I_jE0l7sYQ)
 * [A.I. Learns to play Flappy Bird](https://www.youtube.com/watch?v=WSW-5m8lRMs)
+* [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 
 
 ## Podcasts
