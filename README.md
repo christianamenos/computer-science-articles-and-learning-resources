@@ -84,6 +84,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 * [Learn to combine RxJS sequences](https://indepth.dev/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams/)
 * [Eloquent Javascript](https://eloquentjavascript.net/)
+* [Hot vs Cold Observable RxJS](https://alligator.io/rxjs/hot-cold-observables/)
 
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
