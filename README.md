@@ -88,6 +88,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Eloquent Javascript](https://eloquentjavascript.net/)
 * [Hot vs Cold Observable RxJS](https://alligator.io/rxjs/hot-cold-observables/)
 * [What exactly is NPM, Webpack, Babel and Yarn, and how to use them](https://medium.com/front-end-weekly/what-are-npm-yarn-babel-and-webpack-and-how-to-properly-use-them-d835a758f987)
+* [JavaScript methods will boost your skills in just a few minutes](https://www.freecodecamp.org/news/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f/)
 
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
@@ -231,6 +232,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [The Tail at Scale](https://research.google/pubs/pub40801/)
 * [The intrinsic cost of causal consistency](https://dl.acm.org/doi/abs/10.1145/3380787.3393674)
 * [Software Folklore - A collection of weird bug stories](http://beza1e1.tuxen.de/lore/index.html)
+* [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/#Permutations)
 
 
 ## Videos
