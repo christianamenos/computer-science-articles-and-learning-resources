@@ -34,6 +34,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html#healthy-branch)
 * [Git from the Bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
 * [Code Review best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
+* [Git Explorer:- Simplified search for git command](https://gitexplorer.com/)
 
 ### Machine learning
 * [Rules of Machine Learning:  Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
@@ -45,6 +46,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Privacy attacks on Machine Learning](https://towardsdatascience.com/privacy-attacks-on-machine-learning-a1a25e474276)
 * [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 * [The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
+* [Outfit Completion and Clothes Recommendation](https://dl.acm.org/doi/abs/10.1145/3334480.3383076)
 
 ### Databases
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
@@ -85,6 +87,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Learn to combine RxJS sequences](https://indepth.dev/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams/)
 * [Eloquent Javascript](https://eloquentjavascript.net/)
 * [Hot vs Cold Observable RxJS](https://alligator.io/rxjs/hot-cold-observables/)
+* [What exactly is NPM, Webpack, Babel and Yarn, and how to use them](https://medium.com/front-end-weekly/what-are-npm-yarn-babel-and-webpack-and-how-to-properly-use-them-d835a758f987)
 
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
@@ -224,6 +227,10 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Decoding the Chrome Developer Tool](https://medium.com/swlh/decoding-the-chrome-developer-tool-e7963a194b9e)
 * [When debugging, your attitude matters](https://jvns.ca/blog/debugging-attitude-matters/?utm_source=cassidoo&utm_medium=email)
 * [When and Why Your Code Starts to Smell Bad](https://dibt.unimol.it/staff/fpalomba/documents/C4.pdf)
+* [To Microservices and Back Again](https://qconlondon.com/london2020/presentation/microservices-and-back-again-insights-both-sides-digital-tr)
+* [The Tail at Scale](https://research.google/pubs/pub40801/)
+* [The intrinsic cost of causal consistency](https://dl.acm.org/doi/abs/10.1145/3380787.3393674)
+* [Software Folklore - A collection of weird bug stories](http://beza1e1.tuxen.de/lore/index.html)
 
 
 ## Videos
