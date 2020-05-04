@@ -89,6 +89,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Hot vs Cold Observable RxJS](https://alligator.io/rxjs/hot-cold-observables/)
 * [What exactly is NPM, Webpack, Babel and Yarn, and how to use them](https://medium.com/front-end-weekly/what-are-npm-yarn-babel-and-webpack-and-how-to-properly-use-them-d835a758f987)
 * [JavaScript methods will boost your skills in just a few minutes](https://www.freecodecamp.org/news/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f/)
+* [Should I use promises or Asnync Await?](https://hackernoon.com/should-i-use-promises-or-async-await-126ab5c98789)
 
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
