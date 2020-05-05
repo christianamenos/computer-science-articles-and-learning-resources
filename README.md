@@ -47,6 +47,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 * [The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
 * [Outfit Completion and Clothes Recommendation](https://dl.acm.org/doi/abs/10.1145/3334480.3383076)
+* [Gentle introduction to XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
 * [Next Better Player? GBDT + LR for Binary Classification](https://towardsdatascience.com/next-better-player-gbdt-lr-for-binary-classification-f8dc6f32628e)
 * [GBDT-MO: Gradient Boosted Decision Trees
 for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
