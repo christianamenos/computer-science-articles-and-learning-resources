@@ -97,6 +97,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
+* [Interesting insights on disabling garbage collection in Python](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)
 
 ### Java
 * [Java Performance Tuning](http://www.javaperformancetuning.com/tips/rawtips.shtml)
@@ -154,6 +155,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 
 ### Security
 * [I’m harvesting credit card numbers and passwords from your site. Here’s how](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+* [1password security design](https://1password.com/files/1Password-White-Paper.pdf)
 
 ### Others
 * [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
@@ -238,7 +240,12 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [The intrinsic cost of causal consistency](https://dl.acm.org/doi/abs/10.1145/3380787.3393674)
 * [Software Folklore - A collection of weird bug stories](http://beza1e1.tuxen.de/lore/index.html)
 * [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/#Permutations)
-
+* [Build a HTTP Server from Scratch](https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa)
+* [Understanding G1GC concepts](https://product.hubspot.com/blog/g1gc-fundamentals-lessons-from-taming-garbage-collection)
+* [Averages can be misleading: try a percentile!](https://medium.com/@djsmith42/how-to-metric-edafaf959fc7)
+* [Why are services slow sometimes](https://dev.to/aws/why-are-services-slow-sometimes-mn3)
+* [Software Folklore](http://beza1e1.tuxen.de/lore/)
+* [Opportunity cost](https://erikbern.com/2020/03/10/never-attribute-to-stupidity-that-which-is-adequately-explained-by-opportunity-cost.html)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
