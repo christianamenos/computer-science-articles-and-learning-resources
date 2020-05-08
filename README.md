@@ -29,7 +29,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [How to do high bar code review without being a jerk](https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk/)
 
 ### Code reviews/Versioning
-* [x][Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
+* [x] [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 * [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html#healthy-branch)
 * [Git from the Bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
