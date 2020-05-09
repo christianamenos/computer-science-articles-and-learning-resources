@@ -246,6 +246,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Why are services slow sometimes](https://dev.to/aws/why-are-services-slow-sometimes-mn3)
 * [Software Folklore](http://beza1e1.tuxen.de/lore/)
 * [Opportunity cost](https://erikbern.com/2020/03/10/never-attribute-to-stupidity-that-which-is-adequately-explained-by-opportunity-cost.html)
+* [What are Progressive Web Applications](https://web.dev/what-are-pwas/)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
