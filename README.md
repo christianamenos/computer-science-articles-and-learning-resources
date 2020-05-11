@@ -105,6 +105,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Method binding in Java](http://jdojo.com/wp-content/uploads/2012/02/Understanding-Method-Binding-in-Java.pdf)
 * [Effective Java Concise 1](https://github.com/HugoMatilla/Effective-JAVA-Summary)
 * [Effective Java Concise 2](https://github.com/david-sauvage/effective-java-summary)
+* [Asynchronous Reactive Streaming for JDBC Query Processing](https://medium.com/@gauravranjan11/akka-java-tutorials-part-4-jdbc-query-processing-using-akka-stream-230b03922b85)
+* [Understanding classic garbage collection](https://www.infoq.com/articles/understand-classic-java-garbage-collection)
 
 ### Go
 * [How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong team](https://www.theregister.co.uk/2020/03/09/monzo_microservices/)
@@ -247,6 +249,12 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Software Folklore](http://beza1e1.tuxen.de/lore/)
 * [Opportunity cost](https://erikbern.com/2020/03/10/never-attribute-to-stupidity-that-which-is-adequately-explained-by-opportunity-cost.html)
 * [What are Progressive Web Applications](https://web.dev/progressive-web-apps/)
+* [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
+* [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+* [If statements: Do you really need them in your code?](https://www.pluralsight.com/blog/it-ops/if-statements)
+* [Lombok: A Love/Hate Relationship](https://www.thoughtworks.com/p2magazine/issue12/lombok/)
+* [Software & Its Maintainers' Mental Model](https://queue.acm.org/detail.cfm?id=3380777)
+* [Who needs an Architect?](http://files.catwell.info/misc/mirror/2003-martin-fowler-who-needs-an-architect.pdf)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -258,6 +266,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [The Forgotten Ideas in Computer Science - Youtube](https://www.youtube.com/watch?v=-I_jE0l7sYQ)
 * [A.I. Learns to play Flappy Bird](https://www.youtube.com/watch?v=WSW-5m8lRMs)
 * [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+* [Understanding Kerberos](https://youtu.be/qW361k3-BtU)
+* [Good Enough Architecture](https://www.youtube.com/watch?v=PzEox3szeRc)
 
 
 ## Podcasts
@@ -274,3 +284,5 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Free Code Camp](https://www.freecodecamp.org/)
 * [AWS Twitch account](https://www.twitch.tv/aws)
 * [Learn building for the modern web](https://web.dev/learn/)
+* [30 seconds of knowledge extension](https://30secondsofknowledge.com/)
+
