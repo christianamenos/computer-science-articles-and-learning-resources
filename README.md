@@ -78,6 +78,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 
 ### Testing
 * [TestDouble](https://martinfowler.com/bliki/TestDouble.html)
+* [Rethinking Software Testing: Perspectives from the world of Hardware](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/)
 
 ### Programming languages/frameworks 101's
 * [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
@@ -158,6 +159,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 ### Security
 * [I’m harvesting credit card numbers and passwords from your site. Here’s how](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
 * [1password security design](https://1password.com/files/1Password-White-Paper.pdf)
+* [Hybrid Cryptosystem - Behind SSL handshake](https://www.digicert.com/ssl-cryptography.htm)
 
 ### Others
 * [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
@@ -255,6 +257,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Lombok: A Love/Hate Relationship](https://www.thoughtworks.com/p2magazine/issue12/lombok/)
 * [Software & Its Maintainers' Mental Model](https://queue.acm.org/detail.cfm?id=3380777)
 * [Who needs an Architect?](http://files.catwell.info/misc/mirror/2003-martin-fowler-who-needs-an-architect.pdf)
+* [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
+* [Techniques to Save a Derailing Meeting](https://medium.com/swlh/5-agile-facilitation-techniques-to-save-a-derailing-meeting-f6496739e549)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -268,6 +272,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 * [Understanding Kerberos](https://youtu.be/qW361k3-BtU)
 * [Good Enough Architecture](https://www.youtube.com/watch?v=PzEox3szeRc)
+* [The reactive revolution](https://www.youtube.com/watch?v=Z5q-CXbvM1E)
 
 
 ## Podcasts
