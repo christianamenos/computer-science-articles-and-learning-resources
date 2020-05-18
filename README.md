@@ -51,6 +51,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Next Better Player? GBDT + LR for Binary Classification](https://towardsdatascience.com/next-better-player-gbdt-lr-for-binary-classification-f8dc6f32628e)
 * [GBDT-MO: Gradient Boosted Decision Trees
 for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
+* [Simple MLOps with Amazon SageMaker, Lambda and AWS Step Functions Data Science SDK](https://towardsdatascience.com/simple-mlops-with-amazon-sagemaker-lambda-and-aws-step-functions-data-science-sdk-e8052825a56c)
 
 ### Databases
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
@@ -259,6 +260,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Who needs an Architect?](http://files.catwell.info/misc/mirror/2003-martin-fowler-who-needs-an-architect.pdf)
 * [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 * [Techniques to Save a Derailing Meeting](https://medium.com/swlh/5-agile-facilitation-techniques-to-save-a-derailing-meeting-f6496739e549)
+* [Understanding What Software Engineers Are Working on](https://research.fb.com/wp-content/uploads/2020/04/Understanding-What-Software-Engineers-Are-Working-on.pdf)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -273,6 +275,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Understanding Kerberos](https://youtu.be/qW361k3-BtU)
 * [Good Enough Architecture](https://www.youtube.com/watch?v=PzEox3szeRc)
 * [The reactive revolution](https://www.youtube.com/watch?v=Z5q-CXbvM1E)
+* [tmux shortcuts: Improving shell interactions + productivity](https://www.youtube.com/watch?v=BHhA_ZKjyxo&t=523s)
 
 
 ## Podcasts
