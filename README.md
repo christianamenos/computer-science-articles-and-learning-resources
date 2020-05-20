@@ -35,6 +35,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Git from the Bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
 * [Code Review best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
 * [Git Explorer:- Simplified search for git command](https://gitexplorer.com/)
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ### Machine learning
 * [Rules of Machine Learning:  Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
@@ -80,6 +81,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 ### Testing
 * [TestDouble](https://martinfowler.com/bliki/TestDouble.html)
 * [Rethinking Software Testing: Perspectives from the world of Hardware](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/)
+* [Mutation Testing](https://blog.10pines.com/2009/09/18/mutation-testing/)
 
 ### Programming languages/frameworks 101's
 * [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
@@ -117,6 +119,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 
 ### Rust
 * [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
+* [Getting Started with Rust by Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler)
 
 ### Android
 * [How To Automate The Android Code Review Process Using Danger](https://www.wearemobilefirst.com/blog/how-to-automate-the-android-code-review-process-using-danger)
@@ -261,6 +264,13 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 * [Techniques to Save a Derailing Meeting](https://medium.com/swlh/5-agile-facilitation-techniques-to-save-a-derailing-meeting-f6496739e549)
 * [Understanding What Software Engineers Are Working on](https://research.fb.com/wp-content/uploads/2020/04/Understanding-What-Software-Engineers-Are-Working-on.pdf)
+* [Reading postmortems](http://danluu.com/postmortem-lessons/)
+* [In Search of the Shortest Possible Schedule](https://cacm.acm.org/blogs/blog-cacm/240448-the-shortest-possible-schedule-theorem-yes-you-can-throw-money-at-software-deadlines/fulltext)
+* [NuShell: the shell where traditional Unix meets modern development, written in Rust](https://notamonadtutorial.com/nushell-the-shell-where-traditional-unix-meets-modern-development-written-in-rust-caf92c2c7c98)
+* [How DNS Works - Comic](https://howdns.works/)
+* [7 Habits of Highly Effective Mobile App Developers](https://medium.com/@gil_30056/7-habits-of-highly-effective-mobile-app-developers-62e8cf95223b)
+* [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
+* [Tips to run effective design meetings](https://blog.prototypr.io/3-tips-to-run-effective-design-meetings-dec2ec238b56)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -276,6 +286,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Good Enough Architecture](https://www.youtube.com/watch?v=PzEox3szeRc)
 * [The reactive revolution](https://www.youtube.com/watch?v=Z5q-CXbvM1E)
 * [tmux shortcuts: Improving shell interactions + productivity](https://www.youtube.com/watch?v=BHhA_ZKjyxo&t=523s)
+* [Introducing Recoil: new state management library for React applications](https://youtu.be/_ISAA_Jt9kI)
 
 
 ## Podcasts
