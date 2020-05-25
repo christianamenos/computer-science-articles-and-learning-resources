@@ -23,6 +23,8 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Solve It Once](https://mastery.games/post/solve-it-once/)
 * [Resiliency Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/resiliency)
 * [The Interface Segregation Principle](https://web.archive.org/web/20110714224545/http://www.objectmentor.com/resources/articles/isp.pdf)
+* [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+* [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs)
 
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
