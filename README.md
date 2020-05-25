@@ -22,6 +22,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [The Boy Scout Rule in Coding](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
 * [Solve It Once](https://mastery.games/post/solve-it-once/)
 * [Resiliency Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/resiliency)
+* [The Interface Segregation Principle](https://web.archive.org/web/20110714224545/http://www.objectmentor.com/resources/articles/isp.pdf)
 
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
@@ -82,6 +83,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [TestDouble](https://martinfowler.com/bliki/TestDouble.html)
 * [Rethinking Software Testing: Perspectives from the world of Hardware](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/)
 * [Mutation Testing](https://blog.10pines.com/2009/09/18/mutation-testing/)
+* [Eradicating Non-Determinism in Tests](https://martinfowler.com/articles/nonDeterminism.html)
 
 ### Programming languages/frameworks 101's
 * [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
@@ -98,6 +100,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [What exactly is NPM, Webpack, Babel and Yarn, and how to use them](https://medium.com/front-end-weekly/what-are-npm-yarn-babel-and-webpack-and-how-to-properly-use-them-d835a758f987)
 * [JavaScript methods will boost your skills in just a few minutes](https://www.freecodecamp.org/news/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f/)
 * [Should I use promises or Asnync Await?](https://hackernoon.com/should-i-use-promises-or-async-await-126ab5c98789)
+* [Stop Putting So Many If Statements in Your JavaScript](https://medium.com/better-programming/stop-putting-so-many-if-statements-in-your-javascript-3b65aaa4b86b)
+* [Creating an accessible React modal](https://medium.com/@seif_ghezala/how-to-create-an-accessible-react-modal-5b87e6a27503)
 
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
@@ -177,7 +181,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Napkin Math: Memory numbers every 2020 programmer should know](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/?)
 * [The Forgotten history of early Unix](https://fosdem.org/2020/schedule/event/early_unix/)
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
-* [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+* [X][Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
 * [The Ironies of Automation](https://blog.acolyer.org/2020/01/08/ironies-of-automation/)
 * [A brief history of Epoll](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
 * [A brief history of Epoll part 2](https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/)
@@ -271,6 +275,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [7 Habits of Highly Effective Mobile App Developers](https://medium.com/@gil_30056/7-habits-of-highly-effective-mobile-app-developers-62e8cf95223b)
 * [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
 * [Tips to run effective design meetings](https://blog.prototypr.io/3-tips-to-run-effective-design-meetings-dec2ec238b56)
+* [Rest vs RPC](https://www.linkedin.com/pulse/rest-vs-rpc-soa-showdown-joshua-hartman)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -287,6 +292,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [The reactive revolution](https://www.youtube.com/watch?v=Z5q-CXbvM1E)
 * [tmux shortcuts: Improving shell interactions + productivity](https://www.youtube.com/watch?v=BHhA_ZKjyxo&t=523s)
 * [Introducing Recoil: new state management library for React applications](https://youtu.be/_ISAA_Jt9kI)
+* [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY)
 
 
 ## Podcasts
