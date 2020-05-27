@@ -25,6 +25,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [The Interface Segregation Principle](https://web.archive.org/web/20110714224545/http://www.objectmentor.com/resources/articles/isp.pdf)
 * [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 * [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs)
+* [Utility Classes - The anti-pattern and why they should be avoided](https://www.vojtechruzicka.com/avoid-utility-classes/)
 
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
@@ -117,6 +118,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Effective Java Concise 2](https://github.com/david-sauvage/effective-java-summary)
 * [Asynchronous Reactive Streaming for JDBC Query Processing](https://medium.com/@gauravranjan11/akka-java-tutorials-part-4-jdbc-query-processing-using-akka-stream-230b03922b85)
 * [Understanding classic garbage collection](https://www.infoq.com/articles/understand-classic-java-garbage-collection)
+* [Java's hashCode is not safe for distributed systems](https://martin.kleppmann.com/2012/06/18/java-hashcode-unsafe-for-distributed-systems.html)
 
 ### Go
 * [How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong team](https://www.theregister.co.uk/2020/03/09/monzo_microservices/)
@@ -278,6 +280,9 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
 * [Tips to run effective design meetings](https://blog.prototypr.io/3-tips-to-run-effective-design-meetings-dec2ec238b56)
 * [Rest vs RPC](https://www.linkedin.com/pulse/rest-vs-rpc-soa-showdown-joshua-hartman)
+* [Habits of the high performing teams](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
+* [Hypervisor From Scratch](https://rayanfam.com/topics/hypervisor-from-scratch-part-1/)
+* [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
