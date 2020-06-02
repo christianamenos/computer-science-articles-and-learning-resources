@@ -57,6 +57,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [GBDT-MO: Gradient Boosted Decision Trees
 for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Simple MLOps with Amazon SageMaker, Lambda and AWS Step Functions Data Science SDK](https://towardsdatascience.com/simple-mlops-with-amazon-sagemaker-lambda-and-aws-step-functions-data-science-sdk-e8052825a56c)
+* [Why Momentum Really Works](https://distill.pub/2017/momentum/)
 
 ### Databases
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
@@ -75,6 +76,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [AWS Lambda Power Tuning](https://serverless.com/blog/aws-lambda-power-tuning)
 * [Moving Messages in AWS: Comparing Kinesis, SQS, and SNS](https://medium.com/better-programming/moving-messages-in-aws-comparing-kinesis-sqs-and-sns-32cb5d2f89d5)
 * [How Far Out is AWS Fargate?](https://read.iopipe.com/how-far-out-is-aws-fargate-a2409d2f9bc7)
+* [Amazon Kinesis: the best event queue you’re not using](https://instrumentalapp.com/blog/aws-kinesis/)
 
 ### OPS
 * [Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
@@ -146,6 +148,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Antonio Leiva - Dev Experto articles about Android news and development](https://devexperto.com/blog/)
 * [Raywenderlich Android articles](https://www.raywenderlich.com/android/articles)
 * [Android Weekly](https://androidweekly.net/)
+* [Understanding Kotlin Coroutines with this mental model](https://proandroiddev.com/understanding-kotlin-coroutines-with-this-mental-model-e1205e3f9670)
 
 ### iOS
 * [iOS Open Source UI Library For Mobile Navigation](https://www.wearemobilefirst.com/blog/ios-open-source-ui-navigation-library)
@@ -283,6 +286,11 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Habits of the high performing teams](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
 * [Hypervisor From Scratch](https://rayanfam.com/topics/hypervisor-from-scratch-part-1/)
 * [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
+* [Zip Files: History, Explanation and Implementation](https://www.hanshq.net/zip.html)
+* [Big Ball of Mud](http://www.laputan.org/mud/mud.html)
+* [Trunk Based Development](https://trunkbaseddevelopment.com/)
+* [Are empty interfaces code smell?](https://hackernoon.com/are-interfaces-code-smell-bd19abc266d3)
+* [Conflict Free Replicated Data Types (CRDTs)](https://medium.com/@gauravranjan11/akka-java-tutorials-part-1-akka-distributed-data-e1de6bbe6286)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -300,6 +308,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [tmux shortcuts: Improving shell interactions + productivity](https://www.youtube.com/watch?v=BHhA_ZKjyxo&t=523s)
 * [Introducing Recoil: new state management library for React applications](https://youtu.be/_ISAA_Jt9kI)
 * [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY)
+* [The Value of Values](https://youtu.be/-I-VpPMzG7c?)
+* [Lessons on what to avoid - 10 Tips for failing badly at Microservices by David Schmitz](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 
 
 ## Podcasts
