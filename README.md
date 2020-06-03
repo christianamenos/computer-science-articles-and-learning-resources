@@ -310,6 +310,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY)
 * [The Value of Values](https://youtu.be/-I-VpPMzG7c?)
 * [Lessons on what to avoid - 10 Tips for failing badly at Microservices by David Schmitz](https://www.youtube.com/watch?v=X0tjziAQfNQ)
+* [The differences between junior, mid-level and senior developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
 
 
 ## Podcasts
