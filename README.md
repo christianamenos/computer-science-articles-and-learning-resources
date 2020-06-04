@@ -26,6 +26,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 * [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs)
 * [Utility Classes - The anti-pattern and why they should be avoided](https://www.vojtechruzicka.com/avoid-utility-classes/)
+* [Builder Design Pattern : Discussion and Implementation](https://medium.com/@joshiyogesh/builder-design-pattern-untold-love-story-c53532f76401)
 
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
@@ -77,6 +78,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Moving Messages in AWS: Comparing Kinesis, SQS, and SNS](https://medium.com/better-programming/moving-messages-in-aws-comparing-kinesis-sqs-and-sns-32cb5d2f89d5)
 * [How Far Out is AWS Fargate?](https://read.iopipe.com/how-far-out-is-aws-fargate-a2409d2f9bc7)
 * [Amazon Kinesis: the best event queue you’re not using](https://instrumentalapp.com/blog/aws-kinesis/)
+* [HTTP APIs in AWS API Gateway](https://medium.com/swlh/http-apis-in-aws-api-gateway-82572e4ddd65)
+* [AWS services explained](https://adayinthelifeof.nl/2020/05/20/aws.html)
 
 ### OPS
 * [Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
@@ -121,6 +124,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Asynchronous Reactive Streaming for JDBC Query Processing](https://medium.com/@gauravranjan11/akka-java-tutorials-part-4-jdbc-query-processing-using-akka-stream-230b03922b85)
 * [Understanding classic garbage collection](https://www.infoq.com/articles/understand-classic-java-garbage-collection)
 * [Java's hashCode is not safe for distributed systems](https://martin.kleppmann.com/2012/06/18/java-hashcode-unsafe-for-distributed-systems.html)
+* [Beware Of findFirst() And findAny()](https://blog.codefx.org/java/stream-findfirst-findany-reduce/)
 
 ### Go
 * [How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong team](https://www.theregister.co.uk/2020/03/09/monzo_microservices/)
@@ -291,6 +295,10 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Trunk Based Development](https://trunkbaseddevelopment.com/)
 * [Are empty interfaces code smell?](https://hackernoon.com/are-interfaces-code-smell-bd19abc266d3)
 * [Conflict Free Replicated Data Types (CRDTs)](https://medium.com/@gauravranjan11/akka-java-tutorials-part-1-akka-distributed-data-e1de6bbe6286)
+* [The differences between junior, mid-level and senior developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
+* [Solving Every Sudoku Puzzle](https://norvig.com/sudoku.html)
+* [Ways to fail](https://www.ixiacom.com/company/blog/fail-closed-fail-open-fail-safe-and-failover-abcs-network-visibility)
+
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -310,7 +318,6 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY)
 * [The Value of Values](https://youtu.be/-I-VpPMzG7c?)
 * [Lessons on what to avoid - 10 Tips for failing badly at Microservices by David Schmitz](https://www.youtube.com/watch?v=X0tjziAQfNQ)
-* [The differences between junior, mid-level and senior developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
 
 
 ## Podcasts
