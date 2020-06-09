@@ -298,7 +298,9 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [The differences between junior, mid-level and senior developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
 * [Solving Every Sudoku Puzzle](https://norvig.com/sudoku.html)
 * [Ways to fail](https://www.ixiacom.com/company/blog/fail-closed-fail-open-fail-safe-and-failover-abcs-network-visibility)
-
+* [The Cryptopals Crypto Challenges](https://cryptopals.com/)
+* [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+* [Preventing service failures with health checks](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-3-16e8601c488e)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -318,6 +320,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY)
 * [The Value of Values](https://youtu.be/-I-VpPMzG7c?)
 * [Lessons on what to avoid - 10 Tips for failing badly at Microservices by David Schmitz](https://www.youtube.com/watch?v=X0tjziAQfNQ)
+* [Software Architecture: A Mature Discipline?](https://www.youtube.com/watch?v=70kyGrjs8rU)
 
 
 ## Podcasts
