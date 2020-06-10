@@ -114,6 +114,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
 * [Interesting insights on disabling garbage collection in Python](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)
+* [Stop Using datetime.now!](https://hakibenita.com/python-dependency-injection)
 
 ### Java
 * [Java Performance Tuning](http://www.javaperformancetuning.com/tips/rawtips.shtml)
@@ -301,6 +302,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [The Cryptopals Crypto Challenges](https://cryptopals.com/)
 * [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 * [Preventing service failures with health checks](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-3-16e8601c488e)
+* [A Short On How Zoom Works](http://highscalability.com/blog/2020/5/14/a-short-on-how-zoom-works.html)
+* [Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
