@@ -80,6 +80,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Amazon Kinesis: the best event queue you’re not using](https://instrumentalapp.com/blog/aws-kinesis/)
 * [HTTP APIs in AWS API Gateway](https://medium.com/swlh/http-apis-in-aws-api-gateway-82572e4ddd65)
 * [AWS services explained](https://adayinthelifeof.nl/2020/05/20/aws.html)
+* [AWS hands-on resources - AWS Summit 2020](https://github.com/phonghuule/awssummmitonline)
 
 ### OPS
 * [Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
