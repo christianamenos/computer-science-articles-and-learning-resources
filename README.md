@@ -28,6 +28,10 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Utility Classes - The anti-pattern and why they should be avoided](https://www.vojtechruzicka.com/avoid-utility-classes/)
 * [Builder Design Pattern : Discussion and Implementation](https://medium.com/@joshiyogesh/builder-design-pattern-untold-love-story-c53532f76401)
 
+### Architecting
+* [Failure By Design](https://w.amazon.com/bin/view/EE/Learn/Online/Failure_by_design/)
+* [Cache Consistency: Memcached at Facebook](https://pdos.csail.mit.edu/6.824/papers/memcache-fb.pdf)
+
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
 * [So Your New Team Has Bad Documentation](https://medium.com/tech-at-nordstrom/so-your-new-team-has-bad-documentation-d4c9040ed579)
@@ -67,6 +71,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Online Data Migration](https://stripe.com/en-in/blog/online-migrations)
 * [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 * [Should you be using NoSQL in your next project?](https://www.integrant.com/when-to-use-sql-vs-nosql/)
+* [Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c)
 
 ### Cloud
 * [AWS Infrastructure for Software Developers](https://blog.deleu.dev/aws-vpc-for-software-engineers/)
@@ -81,6 +86,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [HTTP APIs in AWS API Gateway](https://medium.com/swlh/http-apis-in-aws-api-gateway-82572e4ddd65)
 * [AWS services explained](https://adayinthelifeof.nl/2020/05/20/aws.html)
 * [AWS hands-on resources - AWS Summit 2020](https://github.com/phonghuule/awssummmitonline)
+* [Serverless Development Best Practices with AWS Lambda](https://levelup.gitconnected.com/5-serverless-development-best-practices-with-aws-lambda-183aba92b538)
+* [Explain AWS to a 6 year old](https://medium.com/faun/explain-aws-to-a-6-year-old-7be561c9fe0b)
 
 ### OPS
 * [Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
@@ -127,6 +134,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Understanding classic garbage collection](https://www.infoq.com/articles/understand-classic-java-garbage-collection)
 * [Java's hashCode is not safe for distributed systems](https://martin.kleppmann.com/2012/06/18/java-hashcode-unsafe-for-distributed-systems.html)
 * [Beware Of findFirst() And findAny()](https://blog.codefx.org/java/stream-findfirst-findany-reduce/)
+* [Spring vs Guice](https://www.baeldung.com/guice-spring-dependency-injection)
 
 ### Go
 * [How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong team](https://www.theregister.co.uk/2020/03/09/monzo_microservices/)
@@ -305,6 +313,11 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Preventing service failures with health checks](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-3-16e8601c488e)
 * [A Short On How Zoom Works](http://highscalability.com/blog/2020/5/14/a-short-on-how-zoom-works.html)
 * [Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
+* [Why You Should Avoid Using Primitive Types](https://medium.com/better-programming/why-you-should-avoid-using-primitive-types-cb55857baa39)
+* [How to build your personal brand as a new developer](https://www.freecodecamp.org/news/building-your-personal-brand-as-a-new-web-developer-f6d4150fd217/)
+* [Asking Smart Questions](http://xyproblem.info/)
+* [Why Accessibility Is a Critical Piece of Tech Trends for 2020](https://www.boia.org/blog/why-accessibility-is-a-critical-tech-trend-for-2020)
+
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -325,6 +338,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [The Value of Values](https://youtu.be/-I-VpPMzG7c?)
 * [Lessons on what to avoid - 10 Tips for failing badly at Microservices by David Schmitz](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 * [Software Architecture: A Mature Discipline?](https://www.youtube.com/watch?v=70kyGrjs8rU)
+* [Cache Consistency: Memcached at Facebook](https://www.youtube.com/watch?v=Myp8z0ybdzM&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&index=17&t=0s)
 
 
 ## Podcasts
