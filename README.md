@@ -63,6 +63,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Simple MLOps with Amazon SageMaker, Lambda and AWS Step Functions Data Science SDK](https://towardsdatascience.com/simple-mlops-with-amazon-sagemaker-lambda-and-aws-step-functions-data-science-sdk-e8052825a56c)
 * [Why Momentum Really Works](https://distill.pub/2017/momentum/)
+* [AI - the no bullshit approach](https://blog.piekniewski.info/2020/06/08/ai-the-no-bullshit-approach/)
 
 ### Databases
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
@@ -88,6 +89,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [AWS hands-on resources - AWS Summit 2020](https://github.com/phonghuule/awssummmitonline)
 * [Serverless Development Best Practices with AWS Lambda](https://levelup.gitconnected.com/5-serverless-development-best-practices-with-aws-lambda-183aba92b538)
 * [Explain AWS to a 6 year old](https://medium.com/faun/explain-aws-to-a-6-year-old-7be561c9fe0b)
+* [Architectural Implications of Cloud Microservices](https://arxiv.org/abs/1805.10351)
 
 ### OPS
 * [Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
@@ -100,6 +102,9 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Rethinking Software Testing: Perspectives from the world of Hardware](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/)
 * [Mutation Testing](https://blog.10pines.com/2009/09/18/mutation-testing/)
 * [Eradicating Non-Determinism in Tests](https://martinfowler.com/articles/nonDeterminism.html)
+* [Guide: Writing Testable Code](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
+* [Test Automation vs. Automated Testing: The Difference Matters](https://www.qasymphony.com/blog/test-automation-automated-testing/)
+* [Testing and Intellectual Control](https://www.computer.org/csdl/magazine/so/2020/03/09068304/1j30VMzNxLO)
 
 ### Programming languages/frameworks 101's
 * [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
@@ -123,6 +128,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
 * [Interesting insights on disabling garbage collection in Python](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)
 * [Stop Using datetime.now!](https://hakibenita.com/python-dependency-injection)
+* [Python Entry Points Explained!](https://amir.rachum.com/blog/2017/07/28/python-entry-points/)
 
 ### Java
 * [Java Performance Tuning](http://www.javaperformancetuning.com/tips/rawtips.shtml)
@@ -135,6 +141,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Java's hashCode is not safe for distributed systems](https://martin.kleppmann.com/2012/06/18/java-hashcode-unsafe-for-distributed-systems.html)
 * [Beware Of findFirst() And findAny()](https://blog.codefx.org/java/stream-findfirst-findany-reduce/)
 * [Spring vs Guice](https://www.baeldung.com/guice-spring-dependency-injection)
+* [PIT - Real world mutation testing for Java](http://pitest.org)
 
 ### Go
 * [How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong team](https://www.theregister.co.uk/2020/03/09/monzo_microservices/)
@@ -144,6 +151,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 ### Rust
 * [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
 * [Getting Started with Rust by Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler)
+* [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 
 ### Android
 * [How To Automate The Android Code Review Process Using Danger](https://www.wearemobilefirst.com/blog/how-to-automate-the-android-code-review-process-using-danger)
@@ -180,6 +188,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [How To Handle And Donate Siri Shortcuts](https://www.wearemobilefirst.com/blog/how-to-handle-and-donate-siri-shortcuts)
 * [Raywenderlich iOS articles](https://www.raywenderlich.com/ios/articles)
 * [Comparing the Performance between Native iOS (Swift) and React-Native](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2)
+* [Passing Data Between View Controllers in Swift 4](https://medium.com/@astitv96/passing-data-between-view-controllers-using-delegate-and-protocol-ios-swift-4-beginners-e32828862d3f)
 
 ### Flutter
 * [Flutter Weekly](https://flutterweekly.news/)
@@ -303,7 +312,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Zip Files: History, Explanation and Implementation](https://www.hanshq.net/zip.html)
 * [Big Ball of Mud](http://www.laputan.org/mud/mud.html)
 * [Trunk Based Development](https://trunkbaseddevelopment.com/)
-* [Are empty interfaces code smell?](https://hackernoon.com/are-interfaces-code-smell-bd19abc266d3)
+* [x][Are empty interfaces code smell?](https://hackernoon.com/are-interfaces-code-smell-bd19abc266d3)
 * [Conflict Free Replicated Data Types (CRDTs)](https://medium.com/@gauravranjan11/akka-java-tutorials-part-1-akka-distributed-data-e1de6bbe6286)
 * [The differences between junior, mid-level and senior developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
 * [Solving Every Sudoku Puzzle](https://norvig.com/sudoku.html)
@@ -312,12 +321,14 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 * [Preventing service failures with health checks](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-3-16e8601c488e)
 * [A Short On How Zoom Works](http://highscalability.com/blog/2020/5/14/a-short-on-how-zoom-works.html)
-* [Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
+* [x][Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
 * [Why You Should Avoid Using Primitive Types](https://medium.com/better-programming/why-you-should-avoid-using-primitive-types-cb55857baa39)
 * [How to build your personal brand as a new developer](https://www.freecodecamp.org/news/building-your-personal-brand-as-a-new-web-developer-f6d4150fd217/)
 * [Asking Smart Questions](http://xyproblem.info/)
 * [Why Accessibility Is a Critical Piece of Tech Trends for 2020](https://www.boia.org/blog/why-accessibility-is-a-critical-tech-trend-for-2020)
-
+* [On Systemic Debt](https://thedailywtf.com/articles/on-systemic-debt)
+* [Package By Feature](https://dzone.com/articles/package-your-classes-feature)
+* [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -339,7 +350,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Lessons on what to avoid - 10 Tips for failing badly at Microservices by David Schmitz](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 * [Software Architecture: A Mature Discipline?](https://www.youtube.com/watch?v=70kyGrjs8rU)
 * [Cache Consistency: Memcached at Facebook](https://www.youtube.com/watch?v=Myp8z0ybdzM&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&index=17&t=0s)
-
+* [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U&list=PLPSf58MXyndScX3kYnm4WqKxBM1mA16xz&index=4&t=0s)
 
 ## Podcasts
 * [Official AWS Podcast](https://aws.amazon.com/es/podcasts/aws-podcast)
