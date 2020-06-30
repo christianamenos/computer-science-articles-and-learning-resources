@@ -27,10 +27,12 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs)
 * [Utility Classes - The anti-pattern and why they should be avoided](https://www.vojtechruzicka.com/avoid-utility-classes/)
 * [Builder Design Pattern : Discussion and Implementation](https://medium.com/@joshiyogesh/builder-design-pattern-untold-love-story-c53532f76401)
+* [Franklin Method: How To Learn Programming Properly](https://simpleprogrammer.com/franklin-method-learn-programming/)
 
 ### Architecting
 * [Failure By Design](https://w.amazon.com/bin/view/EE/Learn/Online/Failure_by_design/)
 * [Cache Consistency: Memcached at Facebook](https://pdos.csail.mit.edu/6.824/papers/memcache-fb.pdf)
+* [Patterns to Secure Microservice Architectures](https://dzone.com/articles/11-patterns-to-secure-microservice-architectures)
 
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
@@ -105,6 +107,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Guide: Writing Testable Code](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
 * [Test Automation vs. Automated Testing: The Difference Matters](https://www.qasymphony.com/blog/test-automation-automated-testing/)
 * [Testing and Intellectual Control](https://www.computer.org/csdl/magazine/so/2020/03/09068304/1j30VMzNxLO)
+* [Mobile Accessibility Testing Guide](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_Guide.pdf)
 
 ### Programming languages/frameworks 101's
 * [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
@@ -123,6 +126,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Should I use promises or Asnync Await?](https://hackernoon.com/should-i-use-promises-or-async-await-126ab5c98789)
 * [Stop Putting So Many If Statements in Your JavaScript](https://medium.com/better-programming/stop-putting-so-many-if-statements-in-your-javascript-3b65aaa4b86b)
 * [Creating an accessible React modal](https://medium.com/@seif_ghezala/how-to-create-an-accessible-react-modal-5b87e6a27503)
+* [Build your own React](https://pomb.us/build-your-own-react/)
 
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
@@ -142,6 +146,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Beware Of findFirst() And findAny()](https://blog.codefx.org/java/stream-findfirst-findany-reduce/)
 * [Spring vs Guice](https://www.baeldung.com/guice-spring-dependency-injection)
 * [PIT - Real world mutation testing for Java](http://pitest.org)
+* [7 rules of Optional](https://checkerframework.org/manual/#optional-checker)
 
 ### Go
 * [How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong team](https://www.theregister.co.uk/2020/03/09/monzo_microservices/)
@@ -329,6 +334,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [On Systemic Debt](https://thedailywtf.com/articles/on-systemic-debt)
 * [Package By Feature](https://dzone.com/articles/package-your-classes-feature)
 * [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
+* [Unifying Streams and State: The Seamless Path to Real-Time](https://www.confluent.io/blog/unifying-streams-and-state-seamless-path-to-real-time/)
+* [Tiers of answers to half-baked questions](https://blog.plover.com/misc/half-baked.html)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
