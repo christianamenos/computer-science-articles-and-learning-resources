@@ -33,6 +33,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Failure By Design](https://w.amazon.com/bin/view/EE/Learn/Online/Failure_by_design/)
 * [Cache Consistency: Memcached at Facebook](https://pdos.csail.mit.edu/6.824/papers/memcache-fb.pdf)
 * [Patterns to Secure Microservice Architectures](https://dzone.com/articles/11-patterns-to-secure-microservice-architectures)
+* [Spanner architecture](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett)
 
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
@@ -75,6 +76,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 * [Should you be using NoSQL in your next project?](https://www.integrant.com/when-to-use-sql-vs-nosql/)
 * [Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c)
+* [Spanner: Google's Globally Distributed Database becoming a SQL system](https://research.google/pubs/pub46103/)
 
 ### Cloud
 * [AWS Infrastructure for Software Developers](https://blog.deleu.dev/aws-vpc-for-software-engineers/)
@@ -108,6 +110,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Test Automation vs. Automated Testing: The Difference Matters](https://www.qasymphony.com/blog/test-automation-automated-testing/)
 * [Testing and Intellectual Control](https://www.computer.org/csdl/magazine/so/2020/03/09068304/1j30VMzNxLO)
 * [Mobile Accessibility Testing Guide](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_Guide.pdf)
+* [Integrated tests are a scam, and contract testing](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam)
 
 ### Programming languages/frameworks 101's
 * [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
@@ -336,6 +339,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
 * [Unifying Streams and State: The Seamless Path to Real-Time](https://www.confluent.io/blog/unifying-streams-and-state-seamless-path-to-real-time/)
 * [Tiers of answers to half-baked questions](https://blog.plover.com/misc/half-baked.html)
+* [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -358,6 +362,9 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Software Architecture: A Mature Discipline?](https://www.youtube.com/watch?v=70kyGrjs8rU)
 * [Cache Consistency: Memcached at Facebook](https://www.youtube.com/watch?v=Myp8z0ybdzM&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&index=17&t=0s)
 * [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U&list=PLPSf58MXyndScX3kYnm4WqKxBM1mA16xz&index=4&t=0s)
+* [Who Destroyed Three Mile Island?](https://www.youtube.com/watch?v=1xQeXOz0Ncs)
+* [The Friendship That Made Google Huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)
+* [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 
 ## Podcasts
 * [Official AWS Podcast](https://aws.amazon.com/es/podcasts/aws-podcast)
