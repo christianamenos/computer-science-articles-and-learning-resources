@@ -206,6 +206,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [I’m harvesting credit card numbers and passwords from your site. Here’s how](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
 * [1password security design](https://1password.com/files/1Password-White-Paper.pdf)
 * [Hybrid Cryptosystem - Behind SSL handshake](https://www.digicert.com/ssl-cryptography.htm)
+* [Does Sudo protect your account](https://security.stackexchange.com/a/232930)
 
 ### Others
 * [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
@@ -340,6 +341,9 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Unifying Streams and State: The Seamless Path to Real-Time](https://www.confluent.io/blog/unifying-streams-and-state-seamless-path-to-real-time/)
 * [Tiers of answers to half-baked questions](https://blog.plover.com/misc/half-baked.html)
 * [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
+* [How to kill latency from Mobile Apps](https://thenewstack.io/fight-latency-killer-apps/)
+* [Banking on the cloud in the face of COVID-19 and beyond](https://www.fintechfutures.com/2020/06/banking-on-the-cloud-in-the-face-of-covid-19-and-beyond/)
+* [Accessibility drives aesthetics!](https://uxdesign.cc/accessibility-drives-aesthetics-5aef77b5d2aa)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -365,6 +369,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Who Destroyed Three Mile Island?](https://www.youtube.com/watch?v=1xQeXOz0Ncs)
 * [The Friendship That Made Google Huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)
 * [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
+* [Infoq: To Microservices and Back Again](http://youtube.com/watch?v=hIFeaeZ9_AI)
 
 ## Podcasts
 * [Official AWS Podcast](https://aws.amazon.com/es/podcasts/aws-podcast)
