@@ -69,6 +69,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Simple MLOps with Amazon SageMaker, Lambda and AWS Step Functions Data Science SDK](https://towardsdatascience.com/simple-mlops-with-amazon-sagemaker-lambda-and-aws-step-functions-data-science-sdk-e8052825a56c)
 * [Why Momentum Really Works](https://distill.pub/2017/momentum/)
 * [AI - the no bullshit approach](https://blog.piekniewski.info/2020/06/08/ai-the-no-bullshit-approach/)
+* [Scaling the Level of Difficulty in Single Player Video Games](https://link.springer.com/content/pdf/10.1007%2F978-3-642-04052-8_3.pdf)
 
 ### Databases
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
