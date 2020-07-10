@@ -28,12 +28,14 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Utility Classes - The anti-pattern and why they should be avoided](https://www.vojtechruzicka.com/avoid-utility-classes/)
 * [Builder Design Pattern : Discussion and Implementation](https://medium.com/@joshiyogesh/builder-design-pattern-untold-love-story-c53532f76401)
 * [Franklin Method: How To Learn Programming Properly](https://simpleprogrammer.com/franklin-method-learn-programming/)
+* [Four strategies for organizing code](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33#.mo35vtfd7)
 
 ### Architecting
 * [Failure By Design](https://w.amazon.com/bin/view/EE/Learn/Online/Failure_by_design/)
 * [Cache Consistency: Memcached at Facebook](https://pdos.csail.mit.edu/6.824/papers/memcache-fb.pdf)
 * [Patterns to Secure Microservice Architectures](https://dzone.com/articles/11-patterns-to-secure-microservice-architectures)
 * [Spanner architecture](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett)
+* [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
 
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
@@ -130,6 +132,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Stop Putting So Many If Statements in Your JavaScript](https://medium.com/better-programming/stop-putting-so-many-if-statements-in-your-javascript-3b65aaa4b86b)
 * [Creating an accessible React modal](https://medium.com/@seif_ghezala/how-to-create-an-accessible-react-modal-5b87e6a27503)
 * [Build your own React](https://pomb.us/build-your-own-react/)
+* [Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html)
 
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
@@ -344,6 +347,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [How to kill latency from Mobile Apps](https://thenewstack.io/fight-latency-killer-apps/)
 * [Banking on the cloud in the face of COVID-19 and beyond](https://www.fintechfutures.com/2020/06/banking-on-the-cloud-in-the-face-of-covid-19-and-beyond/)
 * [Accessibility drives aesthetics!](https://uxdesign.cc/accessibility-drives-aesthetics-5aef77b5d2aa)
+* [The algorithm behind Ctrl + F](https://dev.to/akhilpokle/the-algorithm-behind-ctrl-f-3hgh)
+* [How to Quantify Scalability, the Universal Scalability Law](http://www.perfdynamics.com/Manifesto/USLscalability.html)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -370,6 +375,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [The Friendship That Made Google Huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)
 * [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 * [Infoq: To Microservices and Back Again](http://youtube.com/watch?v=hIFeaeZ9_AI)
+* [A Conflict-Free Replicated Datatypes Primer: Defanging Order Theory](https://www.youtube.com/watch?v=OOlnp2bZVRs)
 
 ## Podcasts
 * [Official AWS Podcast](https://aws.amazon.com/es/podcasts/aws-podcast)
