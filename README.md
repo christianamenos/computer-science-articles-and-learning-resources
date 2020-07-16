@@ -36,6 +36,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Patterns to Secure Microservice Architectures](https://dzone.com/articles/11-patterns-to-secure-microservice-architectures)
 * [Spanner architecture](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett)
 * [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+* [Six Rules of Thumb for Scaling Software Architectures](https://medium.com/@i.gorton/six-rules-of-thumb-for-scaling-software-architectures-a831960414f9)
 
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
@@ -70,6 +71,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Why Momentum Really Works](https://distill.pub/2017/momentum/)
 * [AI - the no bullshit approach](https://blog.piekniewski.info/2020/06/08/ai-the-no-bullshit-approach/)
 * [Scaling the Level of Difficulty in Single Player Video Games](https://link.springer.com/content/pdf/10.1007%2F978-3-642-04052-8_3.pdf)
+* [Testing Firefox more efficiently with machine learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/)
 
 ### Databases
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
@@ -80,6 +82,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Should you be using NoSQL in your next project?](https://www.integrant.com/when-to-use-sql-vs-nosql/)
 * [Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c)
 * [Spanner: Google's Globally Distributed Database becoming a SQL system](https://research.google/pubs/pub46103/)
+* [The myth of NoSQL (vs. RDBMS) “joins dont scale”](https://blog.dbi-services.com/the-myth-of-nosql-vs-rdbms-joins-dont-scale/)
 
 ### Cloud
 * [AWS Infrastructure for Software Developers](https://blog.deleu.dev/aws-vpc-for-software-engineers/)
@@ -114,6 +117,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Testing and Intellectual Control](https://www.computer.org/csdl/magazine/so/2020/03/09068304/1j30VMzNxLO)
 * [Mobile Accessibility Testing Guide](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_Guide.pdf)
 * [Integrated tests are a scam, and contract testing](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam)
+* [Unit testing is overrated](https://tyrrrz.me/blog/unit-testing-is-overrated)
 
 ### Programming languages/frameworks 101's
 * [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
@@ -350,6 +354,14 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Accessibility drives aesthetics!](https://uxdesign.cc/accessibility-drives-aesthetics-5aef77b5d2aa)
 * [The algorithm behind Ctrl + F](https://dev.to/akhilpokle/the-algorithm-behind-ctrl-f-3hgh)
 * [How to Quantify Scalability, the Universal Scalability Law](http://www.perfdynamics.com/Manifesto/USLscalability.html)
+* [Managing Oneself](http://sbuweb.tcu.edu/jmathis/Foundations%20Materials%202/Managing%20Oneself.pdf)
+* [Programming As Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf)
+* [Accessibility: what you need to know about mobile app development for  people with special needs](https://medium.com/rosberryapps/accessibility-what-you-need-to-know-about-mobile-app-development-for-people-with-special-needs-b52d713f8c95)
+* [Event Storming](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
+* [8 lines of code](https://www.infoq.com/presentations/8-lines-code-refactoring/)
+* [Build Boring Software](https://www.intercom.com/blog/videos/build-boring-software/)
+* [Generating UUIDs at scale](https://medium.com/teads-engineering/generating-uuids-at-scale-on-the-web-2877f529d2a2)
+
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
