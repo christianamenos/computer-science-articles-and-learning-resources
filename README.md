@@ -29,6 +29,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Builder Design Pattern : Discussion and Implementation](https://medium.com/@joshiyogesh/builder-design-pattern-untold-love-story-c53532f76401)
 * [Franklin Method: How To Learn Programming Properly](https://simpleprogrammer.com/franklin-method-learn-programming/)
 * [Four strategies for organizing code](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33#.mo35vtfd7)
+* [Second System Effect](http://www.25hoursaday.com/weblog/2008/08/04/AvoidingTheSecondSystemEffectInSoftwareDevelopment.aspx)
 
 ### Architecting
 * [Failure By Design](https://w.amazon.com/bin/view/EE/Learn/Online/Failure_by_design/)
@@ -37,6 +38,9 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Spanner architecture](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett)
 * [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
 * [Six Rules of Thumb for Scaling Software Architectures](https://medium.com/@i.gorton/six-rules-of-thumb-for-scaling-software-architectures-a831960414f9)
+* [Overselling Event Sourcing](https://zimarev.com/blog/event-sourcing/myth-busting/2020-07-09-overselling-event-sourcing/)
+* [The Concept of Domain-Driven Design Explained](https://dev.to/microtica/the-concept-of-domain-driven-design-explained-1ccn)
+* [Drawing Good Architecture Diagrams](https://www.ncsc.gov.uk/blog-post/drawing-good-architecture-diagrams)
 
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
@@ -51,6 +55,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Code Review best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
 * [Git Explorer:- Simplified search for git command](https://gitexplorer.com/)
 * [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+* [Post-Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)
 
 ### Machine learning
 * [Rules of Machine Learning:  Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
@@ -72,6 +77,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [AI - the no bullshit approach](https://blog.piekniewski.info/2020/06/08/ai-the-no-bullshit-approach/)
 * [Scaling the Level of Difficulty in Single Player Video Games](https://link.springer.com/content/pdf/10.1007%2F978-3-642-04052-8_3.pdf)
 * [Testing Firefox more efficiently with machine learning](https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/)
+* [What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)
+* [Machine Learning for a Better Developer Experience](https://netflixtechblog.com/machine-learning-for-a-better-developer-experience-1e600c69f36c)
 
 ### Databases
 * [Why SQL is beating NoSQL, and what this means for the  future of data](https://blog.timescale.com/blog/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a/)
@@ -100,6 +107,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Serverless Development Best Practices with AWS Lambda](https://levelup.gitconnected.com/5-serverless-development-best-practices-with-aws-lambda-183aba92b538)
 * [Explain AWS to a 6 year old](https://medium.com/faun/explain-aws-to-a-6-year-old-7be561c9fe0b)
 * [Architectural Implications of Cloud Microservices](https://arxiv.org/abs/1805.10351)
+* [Going Green with Serverless with Paul Johnston (Part 1)](https://www.serverlesschats.com/59/)
+* [Processing PGP Encrypted Data in AWS Lambda using Python](https://medium.com/@mayankmadhukar7191/processing-pgp-encrypted-data-in-aws-lambda-using-python-3b3eeb34b393)
 
 ### OPS
 * [Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
@@ -118,12 +127,14 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Mobile Accessibility Testing Guide](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_Guide.pdf)
 * [Integrated tests are a scam, and contract testing](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam)
 * [Unit testing is overrated](https://tyrrrz.me/blog/unit-testing-is-overrated)
+* [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 
 ### Programming languages/frameworks 101's
 * [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
 
 ### CSS
 * [Pixel's vs Relative Units in CSS](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
+* [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
 
 ### JavaScript
 * [7 javascript methods that will bost your skills](https://www.freecodecamp.org/news/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f/)
@@ -138,6 +149,10 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Creating an accessible React modal](https://medium.com/@seif_ghezala/how-to-create-an-accessible-react-modal-5b87e6a27503)
 * [Build your own React](https://pomb.us/build-your-own-react/)
 * [Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html)
+* [3 Javascript Performance Mistakes You Should Stop Doing](https://medium.com/hackernoon/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951)
+* [Don't Use JavaScript Variables Without Knowing Temporal Dead Zone](https://dmitripavlutin.com/javascript-variables-and-temporal-dead-zone/)
+* [A deep dive into React Context API](https://blog.logrocket.com/a-deep-dive-into-react-context-api/)
+* [Writing Resilient Components](https://overreacted.io/writing-resilient-components/)
 
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
@@ -158,6 +173,12 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Spring vs Guice](https://www.baeldung.com/guice-spring-dependency-injection)
 * [PIT - Real world mutation testing for Java](http://pitest.org)
 * [7 rules of Optional](https://checkerframework.org/manual/#optional-checker)
+* [26 Reasons Why Using Optional Correctly Is Not Optional](https://dzone.com/articles/using-optional-correctly-is-not-optional)
+* [10 things you need to know about the static modifier in Java](https://codegym.cc/groups/posts/141-10-things-you-need-to-know-about-the-static-modifier-in-java)
+* [‘null’: what it is, and how you should use it](https://www.freecodecamp.org/news/a-quick-and-thorough-guide-to-null-what-it-is-and-how-you-should-use-it-d170cea62840/)
+
+### Versioning
+* [Rebasing a complex branch in Git](https://blog.appsignal.com/2016/09/27/git-rebasing-strategies.html)
 
 ### Go
 * [How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong team](https://www.theregister.co.uk/2020/03/09/monzo_microservices/)
@@ -168,6 +189,9 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
 * [Getting Started with Rust by Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler)
 * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+
+### C and C++
+* [Null Pointer References: The Billion Dollar Mistake](https://medium.com/@hinchman_amanda/null-pointer-references-the-billion-dollar-mistake-1e616534d485)
 
 ### Android
 * [How To Automate The Android Code Review Process Using Danger](https://www.wearemobilefirst.com/blog/how-to-automate-the-android-code-review-process-using-danger)
@@ -215,6 +239,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [1password security design](https://1password.com/files/1Password-White-Paper.pdf)
 * [Hybrid Cryptosystem - Behind SSL handshake](https://www.digicert.com/ssl-cryptography.htm)
 * [Does Sudo protect your account](https://security.stackexchange.com/a/232930)
+* [Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over  Remote Connections](https://tom.vg/papers/timeless-timing-attack_usenix2020.pdf)
 
 ### Others
 * [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
@@ -361,7 +386,20 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [8 lines of code](https://www.infoq.com/presentations/8-lines-code-refactoring/)
 * [Build Boring Software](https://www.intercom.com/blog/videos/build-boring-software/)
 * [Generating UUIDs at scale](https://medium.com/teads-engineering/generating-uuids-at-scale-on-the-web-2877f529d2a2)
-
+* [Eventual Consistency isn’t for Streaming](https://materialize.io/eventual-consistency-isnt-for-streaming/)
+* [Complexity Has to Live Somewhere](https://ferd.ca/complexity-has-to-live-somewhere.html)
+* [10 Signs You Will Suck at Programming](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c)
+* [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
+* [Avoid using OFFSET and LIMIT for your Pagination](https://medium.com/swlh/why-you-shouldnt-use-offset-and-limit-for-your-pagination-4440e421ba87)
+* [Easier to Ask for Forgiveness than Permission (EAFP)](https://devblogs.microsoft.com/python/idiomatic-python-eafp-versus-lbyl/)
+* [How to use multiple programming languages without losing your mind!](https://opensource.com/article/18/11/multiple-programming-languages)
+* [Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0)
+* [Regular Expression Matching Can Be Simple And Fast (but is slow in Java, Perl, PHP, Python, Ruby, ...)](https://swtch.com/~rsc/regexp/regexp1.html)
+* [Regarding Schneidermann's 8 principles for good interface design](https://www.interaction-design.org/literature/article/shneiderman-s-eight-golden-rules-will-help-you-design-better-interfaces)
+* [The Eight Golden Rules of Interface Design](https://www.cs.umd.edu/~ben/goldenrules.html)
+* [The State Of Pixel Perfection](https://ishadeed.com/article/pixel-perfection/)
+* [Indirection is not abstraction](https://www.silasreinagel.com/blog/2018/10/30/indirection-is-not-abstraction/)
+* [The David Attenborough Style of Scientific Presentation](https://www.k-state.edu/grad/students/three-minute-thesis/David%20Attenborough%20talk%20technique%202018.pdf)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -389,6 +427,10 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 * [Infoq: To Microservices and Back Again](http://youtube.com/watch?v=hIFeaeZ9_AI)
 * [A Conflict-Free Replicated Datatypes Primer: Defanging Order Theory](https://www.youtube.com/watch?v=OOlnp2bZVRs)
+* [Complexity of Hello World & what comes after](https://www.youtube.com/watch?v=dRhLRvOZEXA)
+* [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en)
+* [The Consequences of Your Code](https://www.youtube.com/watch?v=LZM9YdO_QKk)
+* [Let's build a Full-Text Search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 
 ## Podcasts
 * [Official AWS Podcast](https://aws.amazon.com/es/podcasts/aws-podcast)
