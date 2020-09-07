@@ -48,7 +48,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 
 ### Code reviews/Versioning
 * [How to do high bar code review without being a jerk](https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk/)
-* [x] [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
+* [x] [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) Rating: ★★★★☆
 * [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html#healthy-branch)
 * [Git from the Bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
@@ -253,7 +253,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Napkin Math: Memory numbers every 2020 programmer should know](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/?)
 * [The Forgotten history of early Unix](https://fosdem.org/2020/schedule/event/early_unix/)
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
-* [X] [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+* [X] [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html) Rating: ★★★★☆
 * [The Ironies of Automation](https://blog.acolyer.org/2020/01/08/ironies-of-automation/)
 * [A brief history of Epoll](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
 * [A brief history of Epoll part 2](https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/)
@@ -294,7 +294,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [New grad vs senior dev](https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/)
 * [A comprehensive study of Convergent and Commutative Replicated Data Types](https://hal.inria.fr/inria-00555588/document)
 * [Outcome over output](https://martinfowler.com/bliki/OutcomeOverOutput.html)
-* [Asking Questiona](https://www.aaronkharris.com/asking-questions)
+* [X][Asking Questiona](https://www.aaronkharris.com/asking-questions) Rating: ★☆☆☆☆
 * [Latency. Why it matters, how to define it and how to measure it](https://igor.io/latency/)
 * [How to Avoid Virtual Miscommunication](https://hbr.org/2013/04/how-to-avoid-virtual-miscommun)
 * [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
@@ -354,7 +354,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Zip Files: History, Explanation and Implementation](https://www.hanshq.net/zip.html)
 * [Big Ball of Mud](http://www.laputan.org/mud/mud.html)
 * [Trunk Based Development](https://trunkbaseddevelopment.com/)
-* [x][Are empty interfaces code smell?](https://hackernoon.com/are-interfaces-code-smell-bd19abc266d3)
+* [x][Are empty interfaces code smell?](https://hackernoon.com/are-interfaces-code-smell-bd19abc266d3) Rating: ★★☆☆☆
 * [Conflict Free Replicated Data Types (CRDTs)](https://medium.com/@gauravranjan11/akka-java-tutorials-part-1-akka-distributed-data-e1de6bbe6286)
 * [The differences between junior, mid-level and senior developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
 * [Solving Every Sudoku Puzzle](https://norvig.com/sudoku.html)
@@ -363,7 +363,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 * [Preventing service failures with health checks](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-3-16e8601c488e)
 * [A Short On How Zoom Works](http://highscalability.com/blog/2020/5/14/a-short-on-how-zoom-works.html)
-* [x][Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
+* [x][Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html) Rating: ★★☆☆☆
 * [Why You Should Avoid Using Primitive Types](https://medium.com/better-programming/why-you-should-avoid-using-primitive-types-cb55857baa39)
 * [How to build your personal brand as a new developer](https://www.freecodecamp.org/news/building-your-personal-brand-as-a-new-web-developer-f6d4150fd217/)
 * [Asking Smart Questions](http://xyproblem.info/)
@@ -431,6 +431,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en)
 * [The Consequences of Your Code](https://www.youtube.com/watch?v=LZM9YdO_QKk)
 * [Let's build a Full-Text Search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
+* [Good to know your memory](https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101)
 
 ## Podcasts
 * [Official AWS Podcast](https://aws.amazon.com/es/podcasts/aws-podcast)
