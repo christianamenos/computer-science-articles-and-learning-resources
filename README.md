@@ -30,6 +30,10 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Franklin Method: How To Learn Programming Properly](https://simpleprogrammer.com/franklin-method-learn-programming/)
 * [Four strategies for organizing code](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33#.mo35vtfd7)
 * [Second System Effect](http://www.25hoursaday.com/weblog/2008/08/04/AvoidingTheSecondSystemEffectInSoftwareDevelopment.aspx)
+* [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+* [Ten ‘antipatterns’ that are derailing technology transformations](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/ten-antipatterns-that-are-derailing-technology-transformations#)
+* [What Is Good code? A 10-minute actionable introduction](https://towardsdatascience.com/what-is-good-code-an-actionable-introduction-1cad30551ad4)
+* [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
 
 ### Architecting
 * [Failure By Design](https://w.amazon.com/bin/view/EE/Learn/Online/Failure_by_design/)
@@ -41,6 +45,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Overselling Event Sourcing](https://zimarev.com/blog/event-sourcing/myth-busting/2020-07-09-overselling-event-sourcing/)
 * [The Concept of Domain-Driven Design Explained](https://dev.to/microtica/the-concept-of-domain-driven-design-explained-1ccn)
 * [Drawing Good Architecture Diagrams](https://www.ncsc.gov.uk/blog-post/drawing-good-architecture-diagrams)
+* [Lightweight Architecture Decision Records](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
@@ -56,6 +61,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Git Explorer:- Simplified search for git command](https://gitexplorer.com/)
 * [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 * [Post-Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)
+* [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
 
 ### Machine learning
 * [Rules of Machine Learning:  Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
@@ -90,6 +96,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c)
 * [Spanner: Google's Globally Distributed Database becoming a SQL system](https://research.google/pubs/pub46103/)
 * [The myth of NoSQL (vs. RDBMS) “joins dont scale”](https://blog.dbi-services.com/the-myth-of-nosql-vs-rdbms-joins-dont-scale/)
+* [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
 
 ### Cloud
 * [AWS Infrastructure for Software Developers](https://blog.deleu.dev/aws-vpc-for-software-engineers/)
@@ -176,6 +183,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [26 Reasons Why Using Optional Correctly Is Not Optional](https://dzone.com/articles/using-optional-correctly-is-not-optional)
 * [10 things you need to know about the static modifier in Java](https://codegym.cc/groups/posts/141-10-things-you-need-to-know-about-the-static-modifier-in-java)
 * [‘null’: what it is, and how you should use it](https://www.freecodecamp.org/news/a-quick-and-thorough-guide-to-null-what-it-is-and-how-you-should-use-it-d170cea62840/)
+* [Dependency Injection in Java](https://carloschac.in/2019/11/14/dependency-injection-in-java/
+)
 
 ### Versioning
 * [Rebasing a complex branch in Git](https://blog.appsignal.com/2016/09/27/git-rebasing-strategies.html)
@@ -183,6 +192,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 ### Go
 * [How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong team](https://www.theregister.co.uk/2020/03/09/monzo_microservices/)
 * [The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go)
+* [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
 
 
 ### Rust
@@ -400,6 +410,14 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [The State Of Pixel Perfection](https://ishadeed.com/article/pixel-perfection/)
 * [Indirection is not abstraction](https://www.silasreinagel.com/blog/2018/10/30/indirection-is-not-abstraction/)
 * [The David Attenborough Style of Scientific Presentation](https://www.k-state.edu/grad/students/three-minute-thesis/David%20Attenborough%20talk%20technique%202018.pdf)
+* [The UX of Lego Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
+* [Using JWT to transfer data](https://medium.com/@iamkanikamodi/all-you-need-to-know-about-json-web-tokens-jwt-part-1-2-8907098cc4a8)
+* [Why it is important to minimise management decision time?](https://www.javacodegeeks.com/2020/08/why-minimize-management-decision-time.html)
+* [API-First Approach](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
+* [Giving good report for system and math geeks](https://stuff.mit.edu/people/dpolicar/writing/netsam/givingGoodReports.html)
+* [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+* [How to metric](https://medium.com/@djsmith42/how-to-metric-edafaf959fc7)
+* [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -432,6 +450,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [The Consequences of Your Code](https://www.youtube.com/watch?v=LZM9YdO_QKk)
 * [Let's build a Full-Text Search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 * [Good to know your memory](https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101)
+* [The Economics of Software Design](https://www.youtube.com/watch?v=TQ9rng6YFeY)
 
 ## Podcasts
 * [Official AWS Podcast](https://aws.amazon.com/es/podcasts/aws-podcast)
