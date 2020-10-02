@@ -34,8 +34,9 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Ten ‘antipatterns’ that are derailing technology transformations](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/ten-antipatterns-that-are-derailing-technology-transformations#)
 * [What Is Good code? A 10-minute actionable introduction](https://towardsdatascience.com/what-is-good-code-an-actionable-introduction-1cad30551ad4)
 * [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
+* [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 
-### Architecting
+### Architecting and Design
 * [Failure By Design](https://w.amazon.com/bin/view/EE/Learn/Online/Failure_by_design/)
 * [Cache Consistency: Memcached at Facebook](https://pdos.csail.mit.edu/6.824/papers/memcache-fb.pdf)
 * [Patterns to Secure Microservice Architectures](https://dzone.com/articles/11-patterns-to-secure-microservice-architectures)
@@ -46,6 +47,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [The Concept of Domain-Driven Design Explained](https://dev.to/microtica/the-concept-of-domain-driven-design-explained-1ccn)
 * [Drawing Good Architecture Diagrams](https://www.ncsc.gov.uk/blog-post/drawing-good-architecture-diagrams)
 * [Lightweight Architecture Decision Records](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
+* [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
 
 ### Documentation
 * [The Golden Rules of Code Documentation](https://blog.jooq.org/2013/02/26/the-golden-rules-of-code-documentation/)
@@ -62,6 +64,7 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 * [Post-Commit Reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)
 * [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
+* [Best practices for code review](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
 
 ### Machine learning
 * [Rules of Machine Learning:  Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
@@ -97,6 +100,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Spanner: Google's Globally Distributed Database becoming a SQL system](https://research.google/pubs/pub46103/)
 * [The myth of NoSQL (vs. RDBMS) “joins dont scale”](https://blog.dbi-services.com/the-myth-of-nosql-vs-rdbms-joins-dont-scale/)
 * [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
+* [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.wskogqenq)
 
 ### Cloud
 * [AWS Infrastructure for Software Developers](https://blog.deleu.dev/aws-vpc-for-software-engineers/)
@@ -116,6 +120,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Architectural Implications of Cloud Microservices](https://arxiv.org/abs/1805.10351)
 * [Going Green with Serverless with Paul Johnston (Part 1)](https://www.serverlesschats.com/59/)
 * [Processing PGP Encrypted Data in AWS Lambda using Python](https://medium.com/@mayankmadhukar7191/processing-pgp-encrypted-data-in-aws-lambda-using-python-3b3eeb34b393)
+* [Asynchronous Client Interaction in AWS Serverless: Polling, WebSocket, SSE or AppSync](https://medium.com/serverless-transformation/asynchronous-client-interaction-in-aws-serverless-polling-websocket-server-sent-events-or-acf10167cc67)
+* [How I created a door bell with AWS Serverless](https://dev.to/pubudusj/how-i-created-a-door-bell-with-aws-serverless-3n9j)
 
 ### OPS
 * [Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
@@ -135,9 +141,13 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Integrated tests are a scam, and contract testing](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam)
 * [Unit testing is overrated](https://tyrrrz.me/blog/unit-testing-is-overrated)
 * [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+* [Testing strategies in a microservice architecture](https://martinfowler.com/articles/microservice-testing/)
 
 ### Programming languages/frameworks 101's
 * [Intro to Haskell](https://broadcast.amazon.com/videos/176270)
+
+### HTML
+* [Semantic HTML and why it matters](https://medium.com/@elohinaguevara/i-never-thought-that-i-would-need-to-improve-my-html-skills-even-more-did-you-52308d8aff7a)
 
 ### CSS
 * [Pixel's vs Relative Units in CSS](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
@@ -160,12 +170,16 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Don't Use JavaScript Variables Without Knowing Temporal Dead Zone](https://dmitripavlutin.com/javascript-variables-and-temporal-dead-zone/)
 * [A deep dive into React Context API](https://blog.logrocket.com/a-deep-dive-into-react-context-api/)
 * [Writing Resilient Components](https://overreacted.io/writing-resilient-components/)
+* [How JavaScript Works: Under the Hood of the V8 Engine](https://www.freecodecamp.org/news/javascript-under-the-hood-v8/)
+* [Best ways to use 'promise' in JS](https://dev.to/kepta/promising-promise-tips--c8f)
+* [JavaScript Under The Hood](https://medium.com/jspoint/how-javascript-works-in-browser-and-node-ab7d0d09ac2f)
 
 ### Python
 * [Maps and reduces with Python](https://www.programiz.com/python-programming/list-comprehension)
 * [Interesting insights on disabling garbage collection in Python](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)
 * [Stop Using datetime.now!](https://hakibenita.com/python-dependency-injection)
 * [Python Entry Points Explained!](https://amir.rachum.com/blog/2017/07/28/python-entry-points/)
+* [Cooperative multiple-inheritance paradigm in python](https://medium.com/swlh/cooperative-multiple-inheritance-paradigm-in-python-f048b7ecdb29)
 
 ### Java
 * [Java Performance Tuning](http://www.javaperformancetuning.com/tips/rawtips.shtml)
@@ -183,8 +197,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [26 Reasons Why Using Optional Correctly Is Not Optional](https://dzone.com/articles/using-optional-correctly-is-not-optional)
 * [10 things you need to know about the static modifier in Java](https://codegym.cc/groups/posts/141-10-things-you-need-to-know-about-the-static-modifier-in-java)
 * [‘null’: what it is, and how you should use it](https://www.freecodecamp.org/news/a-quick-and-thorough-guide-to-null-what-it-is-and-how-you-should-use-it-d170cea62840/)
-* [Dependency Injection in Java](https://carloschac.in/2019/11/14/dependency-injection-in-java/
-)
+* [Dependency Injection in Java](https://carloschac.in/2019/11/14/dependency-injection-in-java/)
+* [Modern Best Practices for Testing in Java](https://phauer.com/2019/modern-best-practices-testing-java/)
 
 ### Versioning
 * [Rebasing a complex branch in Git](https://blog.appsignal.com/2016/09/27/git-rebasing-strategies.html)
@@ -421,6 +435,41 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [How to metric](https://medium.com/@djsmith42/how-to-metric-edafaf959fc7)
 * [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+* [Dear Google Cloud: Your Deprecation Policy is Killing You](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
+* [File handling in Unix: tips, traps and outright badness](https://rachelbythebay.com/w/2020/08/11/files/)
+* [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/)
+* [Why did Mozilla remove XUL add-ons?](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/)
+* [The Making of an Expert](https://hbr.org/2007/07/the-making-of-an-expert)
+* [Netty in Action](https://livebook.manning.com/book/netty-in-action/chapter-3/81)
+* [Up and down the ladder of abstraction](http://worrydream.com/LadderOfAbstraction/)
+* [WebRTC for the Curious - Go Beyond the APIs](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious)
+* [Unraveling the idea of consistency in distributed systems](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
+* [The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
+* [What every developer should know about tcp](https://robertovitillo.com/what-every-developer-should-know-about-tcp/)
+* [How I Built a Serverless Search for My Blog](https://www.morling.dev/blog/how-i-built-a-serverless-search-for-my-blog/)
+* [Kerberos](https://medium.com/bugbountywriteup/lets-secure-wfh-in-kerberos-way-208799802350)
+* [Amazon shouldn’t have hired me. Here’s how I became an SDE2](https://medium.com/@curtiseinsmann/amazon-shouldnt-have-hired-me-here-s-how-i-became-an-sde2-e310d0d264a8)
+* [Non-obvious ways to improve remote working](https://queue.acm.org/detail.cfm?id=3417752?)
+* [Hints and Principles for Computer System Design](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/Hints-137-full.pdf)
+* [Markdown vs. reStructuredText for documentation](https://www.zverovich.net/2016/06/16/rst-vs-markdown.html)
+* [Are Void Methods bad? Why to avoid them, and also when not to](https://towardsdatascience.com/are-void-methods-bad-6d67dedc6600?source=friends_link&sk=23ac126c1b359cc407a07b1908c8daf3)
+* [How do Backend and Frontend Communicate?](https://vsupalov.com/how-backend-and-frontend-communicate/)
+* [Technical design document writing primer](https://tiny.amazon.com/xciu0yzc)
+* [Writing system software: code comments](http://antirez.com/news/124)
+* [How the browser renders a web page? — DOM, CSSOM and Rendering](https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969)
+* [Blockchain, the amazing solution for almost nothing](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86649455475-f933fe63)
+* [Under Deconstruction: The State of Shopify’s Monolith](https://engineering.shopify.com/blogs/engineering/shopify-monolith)
+* [Companies That Obsess Over Velocity Are Clueless About Scrum](https://medium.com/better-programming/companies-that-obsess-over-velocity-are-clueless-about-scrum-f7654e9cab34)
+* [Chaos Engineering Traps](https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059)
+* [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+* [Git Secretes: 7 Commands You Might Not Know](https://www.freecodecamp.org/news/7-git-commands-you-might-not-know/)
+* [ETL (Extract, Transform, Load) Test Automation for Data Warehouse](https://tdwi.org/Articles/2019/03/22/DIQ-ALL-ETL-Test-Automation.aspx?Page=1)
+* [ELB vs. ALB vs. NLB: Choosing the Best AWS Load Balancer for Your Needs](https://iamondemand.com/blog/elb-vs-alb-vs-nlb-choosing-the-best-aws-load-balancer-for-your-needs/)
+* [MoSCoW Prioritization Technique](https://www.productplan.com/glossary/moscow-prioritization/)
+* [How did software get so reliable without proof](https://www.gwern.net/docs/math/1996-hoare.pdf)
+* [CAP Theorem Problems](http://dbmsmusings.blogspot.com/2010/04/problems-with-cap-and-yahoos-little.html)
+* [Don't compare averages](https://martinfowler.com/articles/dont-compare-averages.html)
+* [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Videos
 * [The Rust Programming Language - Memory safety and Data race freedom](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -454,6 +503,15 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Let's build a Full-Text Search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 * [Good to know your memory](https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101)
 * [The Economics of Software Design](https://www.youtube.com/watch?v=TQ9rng6YFeY)
+* [Narcissistic Design](https://www.youtube.com/watch?v=LEZv-kQUSi4)
+* [Organisation Refactoring and Culture Hacking: Lessons from Software by Andrew Harmel Law](https://www.youtube.com/watch?v=_jqPxGShb90)
+* [Why is Python slow?](https://www.youtube.com/watch?v=I4nkgJdVZFA)
+* [Dangers of dependencies](https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/)
+* [Building resilient services at Prime Video with chaos engineering](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)
+* [Reading Code is a Skill](https://trishagee.com/2020/09/07/reading-code-is-a-skill/)
+* [Inside the Hidden World of Legacy IT Systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
+* [Priorities in Programming: State, Coupling, Complexity, Duplication](https://news.ycombinator.com/item?id=11042400)
+* [Choosing an HTTP Status Code](https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html)
 
 ## Podcasts
 * [Official AWS Podcast](https://aws.amazon.com/es/podcasts/aws-podcast)
