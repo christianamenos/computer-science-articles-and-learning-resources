@@ -221,6 +221,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Raywenderlich Android articles](https://www.raywenderlich.com/android/articles)
 * [Android Weekly](https://androidweekly.net/)
 * [Understanding Kotlin Coroutines with this mental model](https://proandroiddev.com/understanding-kotlin-coroutines-with-this-mental-model-e1205e3f9670)
+* [View Binding](https://devexperto.com/view-binding/)
 
 ### iOS
 * [iOS Open Source UI Library For Mobile Navigation](https://www.wearemobilefirst.com/blog/ios-open-source-ui-navigation-library)
@@ -243,6 +244,8 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 ### Flutter
 * [Flutter Weekly](https://flutterweekly.news/)
 * [Flutter Tutorial: Provider Overview for Humans](https://blog.codemagic.io/flutter-tutorial-provider/)
+* [Flutter tutorial: Architect your app using Provider and Stream](https://blog.codemagic.io/flutter-tutorial-app-arhitecture-beginners/)
+* [Flutter Architectural overview](https://flutter.dev/docs/resources/architectural-overview)
 
 ### Security
 * [I’m harvesting credit card numbers and passwords from your site. Here’s how](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
