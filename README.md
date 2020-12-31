@@ -8,16 +8,80 @@ To make it easier to classify, specify a title, a link to the resource and the t
 
 ## Articles
 
-### Good practices/patterns
+### Engineering
+#### Good practices
 * [Caring about coding](https://8thlight.com/blog/alexandru-codreanu/dario-garcia/lucas-giudice/2015/10/30/caring-coding.html)
 * [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
+* [Code Reusability and Functional Programming](https://www.joelonsoftware.com/2006/08/01/can-your-programming-language-do-this/)
+#### Software Design patterns
+* [Atomic Design: Getting Started](https://www.wearemobilefirst.com/blog/atomic-design)
+#### Software Architectures
+#### System Architectures
 * [Saga pattern for microservices](https://microservices.io/patterns/data/saga.html)
 * [Designing Even Larger Applications](https://medium.com/@cramforce/designing-even-larger-applications-460ee029012d)
+* [Antifragile Design](https://www.sciencedirect.com/science/article/pii/S1877050919305861) - **PAPER**
+* [Cell-Based Architecture: A New Decentralized Approach for Cloud Native Patterns](https://thenewstack.io/cell-based-architecture-a-new-decentralized-approach-for-cloud-native-patterns/)
+
+
+### Cloud
+#### AWS
+#### Google
+#### Azure
+
+### Machine learning
+#### Concepts
+#### Deep learning
+
+### Programing languages
+#### Java
+#### Kotlin
+#### Python
+#### Go
+#### Ruby
+#### Node
+
+### Front-end
+#### JavaScript
+#### TypeScript
+#### React
+#### Angular
+#### Vue
+#### CSS
+#### HTML
+
+
+### Mobile
+#### Android
+#### iOS
+#### React Native
+#### Flutter
+
+
+### Databases
+#### SQL
+#### NoSQL
+
+### OPS
+
+### Testing
+
+
+### Curiosities
 * [Hacker-laws: Laws, Theories, Principles and Patterns that developers will find useful](https://github.com/dwmkerr/hacker-laws/blob/master/README.md)
-* [Antifragile Design - Science Direct](https://www.sciencedirect.com/science/article/pii/S1877050919305861)
-* [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf/)
-* [Code Reusability and Functional Programming](https://www.joelonsoftware.com/2006/08/01/can-your-programming-language-do-this/)
-* [Atomic Design: Getting Started](https://www.wearemobilefirst.com/blog/atomic-design)
+* [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf/) - **BOOK**
+
+
+
+
+
+
+
+
+# REORGANIZING
+
+
+
+### Good practices/patterns
 * [Healthy Coding Practices](https://www.wearemobilefirst.com/blog/healthy-coding-practices)
 * [The Boy Scout Rule in Coding](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
 * [Solve It Once](https://mastery.games/post/solve-it-once/)
@@ -529,3 +593,144 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Learn building for the modern web](https://web.dev/learn/)
 * [30 seconds of knowledge extension](https://30secondsofknowledge.com/)
 
+
+
+
+
+
+## Links to be categorized:
+* [Combining good ideas to get the best solution](https://jj.hashnode.dev/combining-good-ideas-to-get-the-best-solution)
+* [Shuffle Sharding](https://aws.amazon.com/blogs/architecture/shuffle-sharding-massive-and-magical-fault-isolation/)
+* [What is better tradeoff between Consistency and Availability](https://yokota.blog/2017/02/17/dont-settle-for-eventual-consistency/)
+* [Software disenchantment](https://tonsky.me/blog/disenchantment/)
+* [Git is Hard](https://dangitgit.com/)
+* [Efficient Graph Search](https://queue.acm.org/detail.cfm?id=3424304)
+* [How creative friction helps team](https://scottberkun.com/2018/how-creative-abrasion-helps-good-ideas/)
+* [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
+* [Full Stack Developer's Roadmap](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12)
+* [Choosing between messaging services for serverless applications](https://aws.amazon.com/blogs/compute/choosing-between-messaging-services-for-serverless-applications/)
+* [InfoQ : Modern Banking in 1500 Microservices](https://www.youtube.com/watch?v=t7iVCIYQbgk) - **VIDEO**
+* [When fonts fall](https://www.figma.com/blog/when-fonts-fall/)
+* [The Hitchhiker’s Guide to Compression](https://go-compression.github.io/)
+* [A brief overview of Secure transmission of data](https://medium.com/jspoint/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-d5a6269fe29e)
+* [Building an Operationally Excellent Culture](https://blog.usejournal.com/building-an-operationally-excellent-culture-82753fead2a0)
+* [Scaling Push Messaging at Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E) - **VIDEO**
+* [Building resilient serverless patterns by combining messaging services](https://aws.amazon.com/blogs/compute/building-resilient-no-code-serverless-patterns-by-combining-messaging-services/)
+* [The Tyranny of the Hollerith's Punched Card](http://pub.gajendra.net/2012/09/hollerith_tyranny)
+* [Computer Scientists Break Traveling Salesperson Record](https://www.quantamagazine.org/computer-scientists-break-traveling-salesperson-record-20201008/)
+* [Past the Tipping Point: The Persistence of Firefighting in Product Development](https://web.mit.edu/nelsonr/www/TippingV2_0-sub_doc.pdf)
+* [Overview of data structures](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - **VIDEO**
+* [Coding Career Advice: Keeping A Daily Work Journal](https://blog.isquaredsoftware.com/2020/09/coding-career-advice-daily-work-journal/)
+* [Learn In Public](https://www.swyx.io/learn-in-public/)
+* [What a typical 100% Serverless Architecture looks like in AWS!](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
+* [Notes from Effective Python](https://w.amazon.com/bin/view/Users/ayouamee/EffectivePython/)
+* [A List of Post-mortems](https://github.com/danluu/post-mortems)
+* [Getting it right between EC2, Fargate and Lambda](https://medium.com/thundra/getting-it-right-between-ec2-fargate-and-lambda-bb42220b8c79)
+* [Lambda Concurrency Limits and SQS Triggers Don’t Mix Well](https://medium.com/@zaccharles/lambda-concurrency-limits-and-sqs-triggers-dont-mix-well-sometimes-eb23d90122e0)
+* [Using Open Source Observability with Lambda](https://www.youtube.com/watch?v=rv_fZWLd0Pw) - **VIDEO**
+* [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
+* [Empathy can be a Superpower of software developer](https://simpleprogrammer.com/empathy-software-developers/)
+* [Brilliant Jerks in Engineering](http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html)
+* [Optimizing the cost of serverless web applications](https://aws.amazon.com/blogs/compute/optimizing-the-cost-of-serverless-web-applications/)
+* [Sometimes-coordinating systems have dangerous emergent behaviors](https://brooker.co.za/blog/2019/05/01/emergent.html)
+* [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+* [To Boldly Go Where No Internet Protocol Has Gone Before](https://www.quantamagazine.org/vint-cerfs-plan-for-building-an-internet-in-space-20201021/)
+* [The anatomy of a JavaScript engine](https://medium.com/jspoint/how-javascript-works-in-browser-and-node-ab7d0d09ac2f)
+* [Async Await in Loops](https://zellwk.com/blog/async-await-in-loops/)
+* [Forcing functions in software development](https://coderefinery.wordpress.com/2020/10/21/forcing-functions-in-software-development/)
+* [How to put machine learning models into production](https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/)
+* [Building Mental Models that don't change](https://engineering.shopify.com/blogs/engineering/building-mental-models)
+* [Git before Github](https://tarunbatra.com/blog/x/git-before-github/)
+* [Reactive Systems for the Remote Economy](https://www.linkedin.com/pulse/three-reasons-why-companies-need-reactive-systems-remote-mark-brewer)
+* [A Philosophy of Software Design](https://www.youtube.com/watch?v=bmSAYlu0NcY) - **VIDEO**
+* [Choosing between AWS Lambda data storage options in web apps](https://aws.amazon.com/blogs/compute/choosing-between-aws-lambda-data-storage-options-in-web-apps/)
+* [A math idea that may dramatically reduce the dataset size needed to train AI systems](https://techxplore.com/news/2020-10-math-idea-dataset-size-ai.html)
+* [Understanding Java Garbage Collection](https://www.youtube.com/watch?v=Uj1_4shgXpk) - **VIDEO**
+* [Python: Choosing the right import style](https://nedbatchelder.com/blog/201908/why_your_mock_doesnt_work.html)
+* [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
+* [Cargo cult programming](https://blog.ndepend.com/cargo-cult-programming/)
+* [A handbook for making programming languages](https://craftinginterpreters.com/) - **BOOK**
+* [Thoughts on Coupling in Software Design](https://codurance.com/software-creation/2016/07/25/thoughts-on-coupling-in-software-design/)
+* [Modern Java toys that boost productivity, from type inference to text blocks](https://blogs.oracle.com/javamagazine/modern-java-toys-that-boost-productivity-from-type-inference-to-text-blocks)
+* [The testing pyramid should look more like a crab](https://changelog.com/posts/the-testing-pyramid-should-look-more-like-a-crab)
+* [Difference Between C and C++](https://hackr.io/blog/difference-between-c-and-cplusplus)
+* [Real-world dynamic programming: seam carving](https://avikdas.com/2019/05/14/real-world-dynamic-programming-seam-carving.html)
+* [SOLID Design Principles Explained](https://stackify.com/solid-design-principles/)
+* [TLS Handshake](https://www.youtube.com/watch?v=86cQJ0MMses) - **VIDEO**
+* [When to use fakes instead of mocks](https://medium.com/@CDehning/when-to-use-fakes-instead-of-mocks-c80188b9a3f1)
+* [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)
+* [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) - **VIDEO**
+* [Every line of code that you write is an explicit decision to make the application better or worse](https://www.bennadel.com/blog/3848-every-line-of-code-that-you-write-is-an-explicit-decision-to-make-the-application-better-or-worse.htm)
+* [Introduction to Embedded Linux Security - Part 1](https://embeddedbits.org/introduction-embedded-linux-security-part-1/)
+* [Introduction to Embedded Linux Security - Part 2](https://embeddedbits.org/introduction-embedded-linux-security-part-2/)
+* [Patterns for the Distributed Systems in Cloud](https://medium.com/@vagees/patterns-for-the-distributed-systems-in-cloud-part-1-b51dc454f0c7)
+* [Vexing exceptions](https://docs.microsoft.com/en-us/archive/blogs/ericlippert/vexing-exceptions)
+* [A Terrible, Horrible, No-Good, Very Bad Day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack/)
+* [40 millisecond bug - a deep dive blog post](https://vorner.github.io/2020/11/06/40-ms-bug.html)
+* [Choreography vs Orchestration in the land of serverless](https://theburningmonk.com/2020/08/choreography-vs-orchestration-in-the-land-of-serverless/)
+* [Fairness in multi-tenant systems](https://aws.amazon.com/builders-library/fairness-in-multi-tenant-systems/)
+* [Cloud Design Patterns Azure](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+* [All the best engineering advice I stole from non-technical people](https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
+* [Evidence-Based Software Engineering](http://shape-of-code.coding-guidelines.com/2020/11/08/evidence-based-software-engineering-book-released/)
+* [7 Designs for a Universal Quantum Computer](https://medium.com/swlh/7-designs-for-a-universal-quantum-computer-d918e556d149)
+* [DynamoDB on Production: A compilation of lessons learned in a year](https://medium.com/finbox/dynamodb-on-production-a-compilation-of-lessons-learned-in-a-year-6891097a540e)
+* [The Hardest Program I've Ever Written](https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
+* [How Netflix Scales its API with GraphQL Federation](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
+* [The WET codebase](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
+* [Identify and manage technical debt](https://w.amazon.com/bin/view/EE/Learn/Online/Identify_and_manage_tech_debt)
+* [How Amazon Web Services Uses Formal Methods](https://www.cs.tufts.edu/comp/150CAD/papers/formal_amazon.pdf)
+* [Single-master DynamoDB replication case study](https://w.amazon.com/bin/view/ATV/Client_Services/CustomerRegion/DynamoDBReplication/)
+* [FAQ about the 500-mile email](https://www.ibiblio.org/harris/500milemail-faq.html)
+* [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) - **VIDEO**
+* [Security and performance do not have to be conflicting requirements](https://www.youtube.com/watch?v=s0rG5gLDT_U) - **VIDEO**
+* [Building Well-Architected Serverless using CDK Patterns with Matt Coulter](https://www.serverlesschats.com/76/)
+* [Distributed Systems Lecture Series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) - **VIDEO**
+* [Keeping Netflix Reliable Using Prioritized Load Shedding](https://netflixtechblog.com/keeping-netflix-reliable-using-prioritized-load-shedding-6cc827b02f94)
+* [Local-first software](https://www.inkandswitch.com/local-first.html)
+* [Write more idiomatic Kotlin - And its benefits](https://www.youtube.com/watch?v=6P20npkvcb8) - **VIDEO**
+* [Dark Canary pattern applied at LinkedIn](https://engineering.linkedin.com/blog/2020/production-testing-with-dark-canaries)
+* [Hyrum's Law](https://www.hyrumslaw.com/)
+* [Responding to a student's request for help](https://maryrosecook.com/blog/post/responding-to-a-students-request-for-help)
+* [Distributed Systems and Asynchronous I/O](https://medium.com/swlh/distributed-systems-and-asynchronous-i-o-ef0f27655ce5)
+* [What distinguishes great software engineers?](https://tiny.amazon.com/buapp5fm)
+* [The Six Dumbest Ideas in Computer Security](http://ranum.com/security/computer_security/editorials/dumb/index.html)
+* [Optimizing Python program performance using GarbageCollector module](https://rushter.com/blog/python-garbage-collector/)
+* [Guardrails for AWS Event-Driven Serverless Architectures](https://medium.com/capital-one-tech/guardrails-for-aws-event-driven-serverless-architectures-f9bc12ad689f)
+* [Notes on structured concurrency](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
+* [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love)
+* [Curse of the gifted programmer](https://lwn.net/2000/0824/a/esr-sharing.php3)
+* [A little bit of TLC: How IBM squeezes 16,000 write-erase cycles from QLC flash](https://www.theregister.com/2020/11/30/how_ibm_soups_up_qlc/)
+* [Why Is Apple’s M1 Chip So Fast?](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
+* [A better clickthrough rate: How Pinterest upgraded everyone’s favorite engagement metric](https://medium.com/pinterest-engineering/a-better-clickthrough-rate-how-pinterest-upgraded-everyones-favorite-engagement-metric-27f6fa6cba14)
+* [Can developer productivity be measured?](https://stackoverflow.blog/2020/12/07/measuring-developer-productivity/)
+* [GoLang Object Oriented Programming](https://www.toptal.com/go/golang-oop-tutorial)
+* [Building a Reliable Cloud-Based Bank in Java (on top of AWS)](https://www.infoq.com/presentations/starling-bank/)
+* [You must try, and then you must ask (15 minute rule)](https://blogs.akamai.com/2013/10/you-must-try-and-then-you-must-ask.html)
+* [Breaking InstaHide Encryption](https://nicholas.carlini.com/writing/2020/instahide_disappointingly_wins_bell_labs_prize.html)
+* [The History of VSCode](https://channel9.msdn.com/Events/Build/2020/BDL134)
+* [Django's author against web frameworks](https://www.youtube.com/watch?v=VvOsegaN9Wk) - **VIDEO**
+* [Object equals is hard](https://www.artima.com/lejava/articles/equality.html)
+* [Developing On Kubernetes](https://softwaremisadventures.com/podcast/2020/12/kelsey-hightower/)
+* [Consensus protocol for Distributed Systems - Paxos protocol](https://www.youtube.com/watch?v=JEpsBg0AO6o) - **VIDEO**
+* [Consensus protocol for Distributed Systems - Raft protocol](https://www.youtube.com/watch?v=vYp4LYbnnW8) - **VIDEO**
+* [Building DynamoDB brick by brick](https://medium.com/swlh/building-dynamodb-brick-by-brick-237e0008b698)
+* [Efficient IO with io_uring](https://kernel.dk/io_uring.pdf)
+* [Building Minimal Docker Containers for Python Applications](https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3)
+* [GitHub's starts journey on Microservices](https://www.theregister.com/2020/12/01/githubs_journey_towards_microservices/)
+* [Dropbox's petabyte scale metadata store using AWS](https://dropbox.tech/infrastructure/alki--or-how-we-learned-to-stop-worrying-and-love-cold-metadata)
+* [The Almost Epic Engineering Disaster at Uber](https://twitter.com/StanTwinB/status/1336890442768547845)
+* [Going from JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly/)
+* [Scaling with common sense](https://zerodha.tech/blog/scaling-with-common-sense/)
+* [Infrastructure monitoring with Prometheus at Zerodha](https://zerodha.tech/blog/infra-monitoring-at-zerodha/)
+* [Is Python Really a Bottleneck?](https://towardsdatascience.com/is-python-really-a-bottleneck-786d063e2921)
+* [Stack Overflow: How We Do Monitoring](https://nickcraver.com/blog/2018/11/29/stack-overflow-how-we-do-monitoring/)
+
+
+## Topics I want to explore in Depth:
+* Isomorphic JavaScript
+* Algorithms
+* Be effective with tools (like IDE, terminal, operative system, ...)
+* Hands on articles
+* Career growth
+* Soft skills
+* Agile development
