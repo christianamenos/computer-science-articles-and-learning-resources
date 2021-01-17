@@ -4,13 +4,6 @@
 
 ### Good practices/patterns
 
-* [Healthy Coding Practices](https://www.wearemobilefirst.com/blog/healthy-coding-practices)
-* [The Boy Scout Rule in Coding](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
-* [Solve It Once](https://mastery.games/post/solve-it-once/)
-* [Resiliency Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/resiliency)
-* [The Interface Segregation Principle](https://web.archive.org/web/20110714224545/http://www.objectmentor.com/resources/articles/isp.pdf)
-* [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
-* [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs)
 * [Utility Classes - The anti-pattern and why they should be avoided](https://www.vojtechruzicka.com/avoid-utility-classes/)
 * [Builder Design Pattern : Discussion and Implementation](https://medium.com/@joshiyogesh/builder-design-pattern-untold-love-story-c53532f76401)
 * [Franklin Method: How To Learn Programming Properly](https://simpleprogrammer.com/franklin-method-learn-programming/)
@@ -20,7 +13,6 @@
 * [Ten ‘antipatterns’ that are derailing technology transformations](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/ten-antipatterns-that-are-derailing-technology-transformations#)
 * [What Is Good code? A 10-minute actionable introduction](https://towardsdatascience.com/what-is-good-code-an-actionable-introduction-1cad30551ad4)
 * [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
-* [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 
 ### Architecting and Design
 
