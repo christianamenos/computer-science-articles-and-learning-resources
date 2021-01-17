@@ -13,6 +13,7 @@ An example of a complete contribution would be:
 ```markdown
 * [Example title](http://example.com/)
     * **Description:** WRITE A SMALL SUMMARY HERE
+    * **Read:** [] | [x]
     * **Rating:** ★★★★☆
     * **Reading time:** 15'
     * **Tags:** Example, Programming
@@ -35,6 +36,7 @@ This section contains articles related with good practices, good patterns and pr
 
 * [Caring about coding](https://8thlight.com/blog/alexandru-codreanu/dario-garcia/lucas-giudice/2015/10/30/caring-coding.html)
 * [Code Reusability and Functional Programming](https://www.joelonsoftware.com/2006/08/01/can-your-programming-language-do-this/)
+* [Healthy Coding Practices](https://www.wearemobilefirst.com/blog/healthy-coding-practices)
 
 #### Software Design, Patterns and Arquitectures
 
