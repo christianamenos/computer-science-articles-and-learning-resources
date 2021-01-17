@@ -71,8 +71,23 @@ To make it easier to classify, specify a title, a link to the resource and the t
 * [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf/) - **BOOK**
 
 
+### Learning platforms or resources
+* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+* [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Gitignore templates](https://github.com/github/gitignore)
+* [System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [Public APIs](https://github.com/public-apis/public-apis)
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+* [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
-
+### Practicing platforms
+* [CodinGame](https://www.codingame.com/start)
+* [Codewars](https://www.codewars.com/)
+* [LeetCode](https://leetcode.com/)
+* [HackerRank](https://www.hackerrank.com)
 
 
 
