@@ -13,7 +13,7 @@ An example of a complete contribution would be:
 ```markdown
 * [Example title](http://example.com/)
     * **Description:** WRITE A SMALL SUMMARY HERE
-    * **Read:** [] | [x]
+    * **Read:** [ ] | [x]
     * **Rating:** ★★★★☆
     * **Reading time:** 15'
     * **Tags:** Example, Programming
