@@ -2,6 +2,8 @@
 
 ## ARTICLES
 
+* [AI Supports Automatic Generation of 90.4% of Frontend Modules during Double 11](https://www.alibabacloud.com/blog/ai-supports-automatic-generation-of-90-4%25-of-frontend-modules-during-double-11_597087?spm=a2c65.11461433.0.0.4ee35355qICcYl)
+
 ### Good practices/patterns
 
 * [Utility Classes - The anti-pattern and why they should be avoided](https://www.vojtechruzicka.com/avoid-utility-classes/)
@@ -598,6 +600,43 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [Infrastructure monitoring with Prometheus at Zerodha](https://zerodha.tech/blog/infra-monitoring-at-zerodha/)
 * [Is Python Really a Bottleneck?](https://towardsdatascience.com/is-python-really-a-bottleneck-786d063e2921)
 * [Stack Overflow: How We Do Monitoring](https://nickcraver.com/blog/2018/11/29/stack-overflow-how-we-do-monitoring/)
+* [A Closer Look at Etcd: The Brain of a Kubernetes Cluster](https://medium.com/better-programming/a-closer-look-at-etcd-the-brain-of-a-kubernetes-cluster-788c8ea759a5)
+* [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
+* [From SQL to Pandas — A Learning Journey](https://medium.com/@zhaoxiwei1/from-sql-to-pandas-c6cae41e9b29)
+* [Deploy and Train TensorFlow models in Go: Human Activity Recognition case study](https://pgaleone.eu/tensorflow/go/2020/11/27/deploy-train-tesorflow-models-in-go-human-activity-recognition/)
+* [Writing Code Is Fun. Reading It? Not So Much](https://medium.com/oreillymedia/read-code-4a094ca33a45)
+* [Diffuse complexity is exponentially worse than concentrated complexity](https://heuristics.substack.com/p/diffuse-complexity-is-exponentially)
+* [The Life of a Data Byte](https://queue.acm.org/detail.cfm/?id=3419941)
+* [How io_uring and eBPF Will Revolutionize Programming in Linux](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
+* [Why your team doesn't need to use pull requests](https://infrastructure-as-code.com/book/2021/01/02/pull-requests.html)
+* [AWS Lambda is winning, but first it had to die](https://acloudguru.com/blog/engineering/aws-lambda-is-winning-but-first-it-had-to-die)
+* [A Hitchhiker's Guide to Network Connectivity In Amazon](https://w.amazon.com/bin/view/Users/chopsach/NetworkConnectivityInAmazon/)
+* [Pain is not the unit of effort](https://radimentary.wordpress.com/2020/11/24/pain-is-not-the-unit-of-effort/)
+* [Dual Track Development](https://www.computer.org/csdl/magazine/so/5555/01/09152985/1lSW92DGT8k)
+* [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+* [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
+* [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
+* [Technology Predictions 2021](https://www.linkedin.com/posts/donshafer_ieee-2021-technology-predictions-activity-6750160171529486336-Z5BE/)
+* [Operating Lambda: Understanding event-driven architecture](https://aws.amazon.com/blogs/compute/operating-lambda-understanding-event-driven-architecture-part-1/)
+* [Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
+* [An insight into how the Dot-com bubble burst gave rise to the Amazon Web Services](https://twitter.com/DanRose999/status/1347677573900242944)
+* [The 100 Year Computer](https://thedorkweb.substack.com/p/the-100-year-computer)
+* [Lesser Known Techniques for Attacking AWS Environments](https://tldrsec.com/blog/lesser-known-aws-attacks/)
+* [6 Things I wish I Knew at My First Software Engineering Job](https://levelup.gitconnected.com/6-things-i-wish-i-knew-at-my-first-software-engineering-job-f2cdd4e41ca2)
+* [The Infinite Hows](https://www.oreilly.com/radar/the-infinite-hows/)
+* [A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)
+* [Consistent Core](https://martinfowler.com/articles/patterns-of-distributed-systems/consistent-core.html)
+* [MIT distributed systems course lectures](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/playlists?)
+* [Operating Lambda: Design principles in event-driven architectures](https://aws.amazon.com/blogs/compute/operating-lambda-design-principles-in-event-driven-architectures-part-2/)
+* [Are We Really Engineers?](https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/)
+* [Code Refactoring: Learn Code Smells And Level Up Your Game!](https://www.youtube.com/watch?v=D4auWwMsEnY)
+* [Your Coffee Shop Doesn’t Use Two-Phase Commit](https://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ## Topics I want to explore
 
