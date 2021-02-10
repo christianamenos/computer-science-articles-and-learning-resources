@@ -271,6 +271,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 
 ### Others
 
+* [REST Api - What is Hateoas](https://dzone.com/articles/rest-api-what-is-hateoas)
 * [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [Understanding shell globs](https://soptik.tech/articles/beware-of-shell-globs.html)
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
