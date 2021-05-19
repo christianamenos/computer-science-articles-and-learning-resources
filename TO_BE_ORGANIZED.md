@@ -639,6 +639,18 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * []()
 * []()
 
+## Mental health
+* [Self-compassion is not self-indulgence](https://psyche.co/ideas/self-compassion-is-not-self-indulgence-heres-how-to-try-it)
+* [The kind of love that makes people happiest](https://www.theatlantic.com/family/archive/2021/02/falling-in-love-wont-make-you-happy/617989/)
+* [How a beginners mindset can help you learn anything](https://www.bbc.com/worklife/article/20210222-how-a-beginners-mindset-can-help-you-learn-anything)
+* [Want to improve focus? Do one thing at a time](https://getpocket.com/explore/item/want-to-improve-focus-and-productivity-do-one-thing-at-a-time)
+* [The secret of true kindness](https://www.nirandfar.com/secret-to-kindness/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Restoring+America+s+Humanity++%5BBest+Reads%5D&utm_campaign=Weekly+Digest+%28March+6%29&vgo_ee=LKTsWnhqZEgzjKiRc0W%2FrPlMy%2BOWWuyaZunZiCXh6gI%3D)
+* [Resilience is about how you reacharge, not how you endure](https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure)
+* [3 ways to make your mom happier on monther's day](https://www.theatlantic.com/family/archive/2021/05/make-your-mom-happier/618811/)
+* [How to get your hard work recognized](https://www.nytimes.com/2018/12/19/smarter-living/attachment-styles-work-life-balance.html)
+* [The other side of langishing is flourishing. Here's how to get there](https://www.nytimes.com/2021/05/04/well/mind/flourishing-languishing.html)
+* [Feeling blag during the pandemic? It's called languishing](https://www.nytimes.com/2021/04/19/well/mind/covid-mental-health-languishing.html)
+
 ## Topics I want to explore
 
 * Isomorphic JavaScript
