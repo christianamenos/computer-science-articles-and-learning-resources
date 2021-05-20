@@ -822,6 +822,9 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
 * [How to get your hard work recognized](https://www.nytimes.com/2018/12/19/smarter-living/attachment-styles-work-life-balance.html)
 * [The other side of langishing is flourishing. Here's how to get there](https://www.nytimes.com/2021/05/04/well/mind/flourishing-languishing.html)
 * [Feeling blag during the pandemic? It's called languishing](https://www.nytimes.com/2021/04/19/well/mind/covid-mental-health-languishing.html)
+  * The article is about this feeling in which we don't feel good, but we are not depressed, that feeling of "Meh" we have sometimes. The article also propose a solution to this feeling by entering on focus by doing tasks that engage us and make us feel accomplishment.
+  * Speed time: 10 minute
+  * Rate: 4-star
 * [Why are video calls so tiring? You might have opposing cultural styles](https://stackoverflow.blog/2021/02/11/why-are-video-calls-so-tiring-you-might-be-misreading-cultural-styles/)
 * [What Does It Mean to Be a Manager Today?](https://hbr.org/2021/04/what-does-it-mean-to-be-a-manager-today)
 
