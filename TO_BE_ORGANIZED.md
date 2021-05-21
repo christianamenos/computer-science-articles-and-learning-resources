@@ -827,6 +827,7 @@ for Multiple Outputs](https://arxiv.org/pdf/1909.04373.pdf)
   * Rate: 4-star
 * [Why are video calls so tiring? You might have opposing cultural styles](https://stackoverflow.blog/2021/02/11/why-are-video-calls-so-tiring-you-might-be-misreading-cultural-styles/)
 * [What Does It Mean to Be a Manager Today?](https://hbr.org/2021/04/what-does-it-mean-to-be-a-manager-today)
+* [The Real Reason Why You Sabotage Your Own Goals](https://forge.medium.com/psychological-reactance-why-you-sabotage-our-own-goals-f473c2df47a3)
 
 ## Topics I want to explore
 
